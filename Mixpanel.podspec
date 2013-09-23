@@ -11,5 +11,5 @@ Pod::Spec.new do |s|
   s.source_files =  'Mixpanel/**/*.{m,h}'
   s.private_header_files =  'Mixpanel/Library/**/*.h'
   s.requires_arc =  false
-  s.resources = [ 'Mixpanel/Carriers.plist' ]
+  s.ios.resource_bundle = { 'Carriers' => 'Mixpanel/Carriers.plist' }
 end

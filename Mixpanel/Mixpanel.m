@@ -276,7 +276,7 @@ static Mixpanel *sharedInstance = nil;
     // Otherwise load from file
     NSString *plistPath = [[NSBundle bundleForClass:[self class]] pathForResource:@"Carriers" ofType:@"plist"];
     NSDictionary *carrierNames = [NSDictionary dictionaryWithContentsOfFile:plistPath];
-    NSString *key = [NSString stringWithFormat:@"%@/%@", carrier.mobileCountryCode, carrier.mobileNetworkCode];
+    NSString *key = [NSString stringWithFormat:@"%@%@", carrier.mobileCountryCode, carrier.mobileNetworkCode];
     return [carrierNames objectForKey:key];
 }
 

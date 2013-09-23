@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B38FFFF17F06BF200236BB5 /* Carriers.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0B38FFFE17F06BF200236BB5 /* Carriers.plist */; };
 		2808F9921610EFE3005772B7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2808F9911610EFE3005772B7 /* UIKit.framework */; };
 		2808F9941610EFE3005772B7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2808F9931610EFE3005772B7 /* Foundation.framework */; };
 		2808F9961610EFE3005772B7 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2808F9951610EFE3005772B7 /* CoreGraphics.framework */; };
@@ -48,6 +49,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B38FFFE17F06BF200236BB5 /* Carriers.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Carriers.plist; sourceTree = "<group>"; };
 		2808F98D1610EFE3005772B7 /* HelloMixpanel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloMixpanel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2808F9911610EFE3005772B7 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2808F9931610EFE3005772B7 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -203,6 +205,7 @@
 		286760AD1611982600B1BEC8 /* Mixpanel */ = {
 			isa = PBXGroup;
 			children = (
+				0B38FFFE17F06BF200236BB5 /* Carriers.plist */,
 				286760AE1611982600B1BEC8 /* Library */,
 				286760B91611982600B1BEC8 /* Mixpanel.h */,
 				286760BA1611982600B1BEC8 /* Mixpanel.m */,
@@ -301,7 +304,7 @@
 				ORGANIZATIONNAME = Mixpanel;
 				TargetAttributes = {
 					2808F98C1610EFE3005772B7 = {
-						DevelopmentTeam = E8FVX7QLET;
+						DevelopmentTeam = 8T7GCLF577;
 					};
 				};
 			};
@@ -328,6 +331,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B38FFFF17F06BF200236BB5 /* Carriers.plist in Resources */,
 				2808F99C1610EFE3005772B7 /* InfoPlist.strings in Resources */,
 				2808F9A81610EFE3005772B7 /* ViewController.xib in Resources */,
 				2808F9CA1610F0D0005772B7 /* grid.png in Resources */,
@@ -545,6 +549,7 @@
 		2808F9C41610EFE4005772B7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -559,6 +564,7 @@
 				OTHER_CFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos6.1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -566,6 +572,7 @@
 		2808F9C51610EFE4005772B7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -577,6 +584,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "A640D9DF-0CA4-4406-981F-27980B8A7AA8";
+				SDKROOT = iphoneos6.1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -681,6 +689,7 @@
 		28C2136616376D3300696E4F /* AppStore */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -691,6 +700,7 @@
 				OTHER_CFLAGS = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
+				SDKROOT = iphoneos6.1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = AppStore;

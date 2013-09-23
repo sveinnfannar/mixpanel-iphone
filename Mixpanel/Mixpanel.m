@@ -256,13 +256,28 @@ static Mixpanel *sharedInstance = nil;
     CTTelephonyNetworkInfo *networkInfo = [[CTTelephonyNetworkInfo alloc] init];
     CTCarrier *carrier = [networkInfo subscriberCellularProvider];
     [networkInfo release];
-    if (carrier.carrierName.length) {
-        [p setValue:carrier.carrierName forKey:@"$carrier"];
+    NSString *carrierName = [self nameForCarrier:carrier];
+    if (carrierName.length) {
+        [p setValue:carrierName forKey:@"$carrier"];
     }
     if (NSClassFromString(@"ASIdentifierManager")) {
         [p setValue:[[ASIdentifierManager sharedManager].advertisingIdentifier UUIDString] forKey:@"$ios_ifa"];
     }
     return p;
+}
+
+- (NSString *)nameForCarrier:(CTCarrier *)carrier
+{
+    // Check if information is availible
+    if (carrier.carrierName.length && ![carrier.carrierName isEqualToString:@"Carrier"]) {
+        return carrier.carrierName;
+    }
+    
+    // Otherwise load from file
+    NSString *plistPath = [[NSBundle bundleForClass:[self class]] pathForResource:@"Carriers" ofType:@"plist"];
+    NSDictionary *carrierNames = [NSDictionary dictionaryWithContentsOfFile:plistPath];
+    NSString *key = [NSString stringWithFormat:@"%@/%@", carrier.mobileCountryCode, carrier.mobileNetworkCode];
+    return [carrierNames objectForKey:key];
 }
 
 + (BOOL)inBackground

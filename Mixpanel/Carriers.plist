@@ -2,2895 +2,1353 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>001/01</key>
-	<string>TEST</string>
-	<key>202/01</key>
+	<key>20201</key>
 	<string>Cosmote</string>
-	<key>202/05</key>
-	<string>Vodafone</string>
-	<key>202/09</key>
-	<string>Wind</string>
-	<key>202/10</key>
-	<string>Wind</string>
-	<key>204/02</key>
+	<key>20205</key>
+	<string>Vodafone (Panafone)</string>
+	<key>20209</key>
+	<string>Info Quest S.A. (Q-TELECOM)</string>
+	<key>20402</key>
 	<string>Tele2</string>
-	<key>204/03</key>
-	<string>Voiceworks</string>
-	<key>204/06</key>
-	<string>Vectone Mobile]] [[Delight Mobile</string>
-	<key>204/08</key>
-	<string>KPN</string>
-	<key>204/09</key>
-	<string>Lycamobile</string>
-	<key>204/10</key>
-	<string>KPN</string>
-	<key>204/12</key>
-	<string>Telfort</string>
-	<key>204/16</key>
-	<string>T-Mobile]] (BEN)</string>
-	<key>204/17</key>
-	<string>Intercity Zakelijk</string>
-	<key>204/20</key>
-	<string>T-Mobile</string>
-	<key>206/01</key>
-	<string>Proximus</string>
-	<key>206/05</key>
-	<string>Telenet (Belgium)|Telenet</string>
-	<key>206/10</key>
+	<key>20404</key>
+	<string>Libertell (Vodafone)</string>
+	<key>20408</key>
+	<string>KPN Telecom</string>
+	<key>20412</key>
+	<string>Telfort (O2)</string>
+	<key>20416</key>
+	<string>T-Mobile (Ben)</string>
+	<key>20420</key>
+	<string>Duchtone (Orange)</string>
+	<key>20601</key>
+	<string>Belgacom Mobile (Proximus)</string>
+	<key>20610</key>
 	<string>Mobistar</string>
-	<key>206/20</key>
-	<string>BASE (mobile)|BASE</string>
-	<key>208/01</key>
-	<string>Orange S.A.|Orange</string>
-	<key>208/02</key>
-	<string>Orange</string>
-	<key>208/03</key>
-	<string>Mobiquithing</string>
-	<key>208/04</key>
-	<string>Sisteer</string>
-	<key>208/10</key>
+	<key>20620</key>
+	<string>KPN Orange (BASE)</string>
+	<key>20800</key>
+	<string>Orange France</string>
+	<key>20801</key>
+	<string>Orange France</string>
+	<key>20802</key>
+	<string>Orange France</string>
+	<key>20810</key>
 	<string>SFR</string>
-	<key>208/11</key>
+	<key>20811</key>
 	<string>SFR</string>
-	<key>208/13</key>
+	<key>20813</key>
 	<string>SFR</string>
-	<key>208/14</key>
-	<string>Réseau Ferré de France|RFF</string>
-	<key>208/15</key>
-	<string>Free Mobile</string>
-	<key>208/16</key>
-	<string>Free Mobile</string>
-	<key>208/20</key>
-	<string>Bouygues</string>
-	<key>208/21</key>
-	<string>Bouygues</string>
-	<key>208/22</key>
-	<string>Transatel Mobile</string>
-	<key>208/23</key>
-	<string>Virgin Mobile (MVNO)</string>
-	<key>208/24</key>
-	<string>Mobiquithing</string>
-	<key>208/25</key>
-	<string>LycaMobile</string>
-	<key>208/26</key>
-	<string>NRJ Mobile (MVNO)</string>
-	<key>208/88</key>
-	<string>Bouygues</string>
-	<key>212/01</key>
-	<string>Office des Telephones</string>
-	<key>213/03</key>
-	<string>Mobiland</string>
-	<key>214/01</key>
+	<key>20820</key>
+	<string>Bouygues Telecom</string>
+	<key>20821</key>
+	<string>Bouygues Telecom</string>
+	<key>20888</key>
+	<string>Bouygues Telecom</string>
+	<key>21201</key>
+	<string>Monaco Telecom</string>
+	<key>21303</key>
+	<string>Mobiland (S.T.A.)</string>
+	<key>21401</key>
+	<string>Airtel (Vodafone)</string>
+	<key>21404</key>
+	<string>Xfera Moviles</string>
+	<key>21406</key>
+	<string>Airtel (Vodafone)</string>
+	<key>21407</key>
+	<string>Telefonica Moviles (Movistar)</string>
+	<key>21409</key>
+	<string>Airtel (Vodafone)</string>
+	<key>21601</key>
+	<string>Pannon</string>
+	<key>21630</key>
+	<string>T-Mobile (Westel)</string>
+	<key>21670</key>
 	<string>Vodafone</string>
-	<key>214/03</key>
-	<string>Orange España|Orange</string>
-	<key>214/04</key>
-	<string>Yoigo</string>
-	<key>214/05</key>
-	<string>TME</string>
-	<key>214/06</key>
-	<string>Vodafone</string>
-	<key>214/07</key>
-	<string>movistar</string>
-	<key>214/08</key>
-	<string>Euskaltel</string>
-	<key>214/09</key>
-	<string>Orange</string>
-	<key>214/15</key>
-	<string>BT</string>
-	<key>214/16</key>
-	<string>TeleCable (Spain)|TeleCable</string>
-	<key>214/17</key>
-	<string>R Cable|Móbil R</string>
-	<key>214/18</key>
-	<string>ONO (Spain)|ONO</string>
-	<key>214/19</key>
-	<string>Simyo</string>
-	<key>214/20</key>
-	<string>Fonyou</string>
-	<key>214/21</key>
-	<string>Jazztel</string>
-	<key>214/22</key>
-	<string>DigiMobil</string>
-	<key>214/23</key>
-	<string>Barablu</string>
-	<key>214/24</key>
-	<string>Eroski</string>
-	<key>214/25</key>
-	<string>LycaMobile</string>
-	<key>216/01</key>
-	<string>Telenor</string>
-	<key>216/30</key>
-	<string>T-Mobile</string>
-	<key>216/70</key>
-	<string>Vodafone</string>
-	<key>216/71</key>
-	<string>UPC Hungary</string>
-	<key>218/03</key>
-	<string>HT-ERONET</string>
-	<key>218/05</key>
-	<string>m:tel</string>
-	<key>218/90</key>
-	<string>BH Mobile</string>
-	<key>219/01</key>
-	<string>T-Mobile</string>
-	<key>219/02</key>
+	<key>21803</key>
+	<string>ERONET</string>
+	<key>21901</key>
+	<string>T-mobile</string>
+	<key>21902</key>
 	<string>Tele2</string>
-	<key>219/10</key>
-	<string>Vip</string>
-	<key>220/01</key>
-	<string>Telenor</string>
-	<key>220/02</key>
-	<string>Telenor</string>
-	<key>220/03</key>
-	<string>mt:s</string>
-	<key>220/05</key>
+	<key>21910</key>
+	<string>Vipnet</string>
+	<key>22001</key>
+	<string>Telenor (Mobtel)</string>
+	<key>22003</key>
+	<string>Telecom Serbia</string>
+	<key>22005</key>
 	<string>VIP</string>
-	<key>222/01</key>
-	<string>TIM</string>
-	<key>222/02</key>
-	<string>Elsacom</string>
-	<key>222/04</key>
-	<string>Intermatica</string>
-	<key>222/05</key>
-	<string>Telespazio</string>
-	<key>222/07</key>
-	<string>Noverca</string>
-	<key>222/10</key>
-	<string>Vodafone</string>
-	<key>222/30</key>
-	<string>RFI</string>
-	<key>222/35</key>
-	<string>Lyca Italy</string>
-	<key>222/77</key>
-	<string>IPSE 2000</string>
-	<key>222/88</key>
-	<string>Wind</string>
-	<key>222/98</key>
-	<string>Blu</string>
-	<key>222/99</key>
-	<string>3 Italia</string>
-	<key>226/01</key>
-	<string>Vodafone</string>
-	<key>226/02</key>
-	<string>Romtelecom</string>
-	<key>226/03</key>
-	<string>Cosmote</string>
-	<key>226/04</key>
-	<string>Cosmote/Zapp</string>
-	<key>226/05</key>
-	<string>Digi.Mobil</string>
-	<key>226/06</key>
-	<string>Cosmote/Zapp</string>
-	<key>226/10</key>
+	<key>22201</key>
+	<string>Telecom Italia Mobile</string>
+	<key>22210</key>
+	<string>Vodafone Omnitel</string>
+	<key>22288</key>
+	<string>WIND</string>
+	<key>22299</key>
+	<string>Hutchison 3G</string>
+	<key>22603</key>
+	<string>Cosmorom (Cosmote Romanian MT S.A.)</string>
+	<key>22605</key>
+	<string>RCS &amp; RDS DigiMobil</string>
+	<key>22610</key>
+	<string>Orange (MobilRom)</string>
+	<key>22801</key>
+	<string>Swisscom Mobile</string>
+	<key>22802</key>
+	<string>Sunrise (Diax)</string>
+	<key>22803</key>
 	<string>Orange</string>
-	<key>228/01</key>
-	<string>Swisscom</string>
-	<key>228/02</key>
-	<string>Sunrise</string>
-	<key>228/03</key>
-	<string>Orange</string>
-	<key>228/06</key>
-	<string>SBB-CFF-FFS</string>
-	<key>228/07</key>
-	<string>IN&amp;Phone</string>
-	<key>228/08</key>
-	<string>Tele4u</string>
-	<key>228/52</key>
-	<string>Barablu</string>
-	<key>230/01</key>
-	<string>T-Mobile</string>
-	<key>230/02</key>
-	<string>O&lt;sub&gt;2&lt;/sub&gt;</string>
-	<key>230/03</key>
-	<string>Vodafone</string>
-	<key>230/04</key>
-	<string>U:fon</string>
-	<key>230/99</key>
-	<string>Vodafone</string>
-	<key>231/01</key>
-	<string>Orange</string>
-	<key>231/02</key>
-	<string>Telekom</string>
-	<key>231/04</key>
-	<string>T-Mobile</string>
-	<key>231/06</key>
-	<string>O&lt;sub&gt;2&lt;/sub&gt;</string>
-	<key>231/99</key>
-	<string>ŽSR</string>
-	<key>232/01</key>
-	<string>A1 TA</string>
-	<key>232/03</key>
-	<string>T-Mobile AT</string>
-	<key>232/05</key>
-	<string>Orange AT</string>
-	<key>232/07</key>
-	<string>:de:Telering|tele.ring</string>
-	<key>232/09</key>
-	<string>Tele2Mobil</string>
-	<key>232/10</key>
-	<string>3AT</string>
-	<key>232/11</key>
-	<string>:de:Bob (Mobilfunk)|bob</string>
-	<key>232/12</key>
-	<string>:de:Yesss|yesss!</string>
-	<key>232/15</key>
-	<string>http://www.vectonemobile.at/ Vectone</string>
-	<key>232/91</key>
-	<string>GSM-R A</string>
-	<key>234/</key>
-	<string>Cloud 9 Mobile</string>
-	<key>234/00</key>
-	<string>BT</string>
-	<key>234/01</key>
-	<string>Vectone Mobile</string>
-	<key>234/02</key>
-	<string>O2 (UK)</string>
-	<key>234/03</key>
-	<string>Airtel-Vodafone</string>
-	<key>234/04</key>
-	<string>FMS Solutions Ltd</string>
-	<key>234/09</key>
-	<string>Sure Mobile</string>
-	<key>234/10</key>
-	<string>O2 (UK)</string>
-	<key>234/11</key>
-	<string>O2 (UK)</string>
-	<key>234/12</key>
-	<string>Railtrack</string>
-	<key>234/13</key>
-	<string>Railtrack</string>
-	<key>234/14</key>
-	<string>Hay Systems Ltd</string>
-	<key>234/15</key>
-	<string>Vodafone UK</string>
-	<key>234/16</key>
-	<string>Talk Talk (Opal Tel Ltd)</string>
-	<key>234/18</key>
-	<string>Cloud9</string>
-	<key>234/19</key>
-	<string>Private Mobile Networks PMN</string>
-	<key>234/20</key>
-	<string>Hutchison 3G|3</string>
-	<key>234/22</key>
-	<string>RoutoMessaging</string>
-	<key>234/24</key>
-	<string>Greenfone</string>
-	<key>234/25</key>
-	<string>Truphone</string>
-	<key>234/30</key>
-	<string>T-Mobile UK</string>
-	<key>234/31</key>
-	<string>Virgin Mobile UK</string>
-	<key>234/32</key>
-	<string>Virgin Mobile UK</string>
-	<key>234/33</key>
-	<string>Orange (UK)</string>
-	<key>234/34</key>
-	<string>Orange (UK)</string>
-	<key>234/50</key>
-	<string>JT</string>
-	<key>234/51</key>
-	<string>UK Broadband Limited</string>
-	<key>234/55</key>
-	<string>Sure Mobile</string>
-	<key>234/58</key>
-	<string>Pronto GSM</string>
-	<key>234/76</key>
-	<string>BT</string>
-	<key>234/78</key>
-	<string>Airwave</string>
-	<key>235/77</key>
-	<string>BT</string>
-	<key>238/01</key>
-	<string>TDC</string>
-	<key>238/02</key>
-	<string>Telenor</string>
-	<key>238/03</key>
-	<string>End2End</string>
-	<key>238/06</key>
-	<string>Hutchison 3G|3</string>
-	<key>238/08</key>
-	<string>Nordisk Mobiltelefon</string>
-	<key>238/10</key>
-	<string>TDC</string>
-	<key>238/20</key>
-	<string>TeliaSonera|Telia</string>
-	<key>238/23</key>
-	<string>GSM-R DK</string>
-	<key>238/30</key>
-	<string>TeliaSonera|Telia</string>
-	<key>238/77</key>
-	<string>Telenor</string>
-	<key>240/01</key>
-	<string>Telia</string>
-	<key>240/02</key>
-	<string>3</string>
-	<key>240/03</key>
-	<string>Ice.net</string>
-	<key>240/04</key>
-	<string>SWEDEN</string>
-	<key>240/05</key>
-	<string>Sweden 3G</string>
-	<key>240/06</key>
-	<string>Telenor</string>
-	<key>240/07</key>
+	<key>23001</key>
+	<string>T-Mobile (Radio Mobil)</string>
+	<key>23002</key>
+	<string>O2 (Eurotel)</string>
+	<key>23101</key>
+	<string>Orange Slovensko</string>
+	<key>23102</key>
+	<string>Eurotel Bratislava</string>
+	<key>23106</key>
+	<string>O2</string>
+	<key>23201</key>
+	<string>Mobilkom A1</string>
+	<key>23203</key>
+	<string>Max Mobile (T-Mobile)</string>
+	<key>23205</key>
+	<string>Connect (One)</string>
+	<key>23207</key>
+	<string>Telering</string>
+	<key>23209</key>
 	<string>Tele2</string>
-	<key>240/08</key>
-	<string>Telenor</string>
-	<key>240/09</key>
-	<string>djuice</string>
-	<key>240/10</key>
-	<string>Spring Mobil</string>
-	<key>240/12</key>
-	<string>Lycamobile Sweden</string>
-	<key>240/17</key>
-	<string>http://www.gotanet.se/ Gotanet</string>
-	<key>240/21</key>
-	<string>MobiSir</string>
-	<key>240/24</key>
-	<string>Sweden 2G</string>
-	<key>242/01</key>
-	<string>Telenor</string>
-	<key>242/02</key>
-	<string>NetCom</string>
-	<key>242/03</key>
-	<string>Teletopia</string>
-	<key>242/04</key>
-	<string>Tele2</string>
-	<key>242/05</key>
-	<string>Network Norway</string>
-	<key>242/06</key>
-	<string>Ice</string>
-	<key>242/07</key>
-	<string>Ventelo</string>
-	<key>242/08</key>
-	<string>TDC</string>
-	<key>242/09</key>
-	<string>Com4</string>
-	<key>242/11</key>
-	<string>SystemNet</string>
-	<key>242/23</key>
-	<string>Lyca</string>
-	<key>244/03</key>
-	<string>DNA</string>
-	<key>244/04</key>
-	<string>AINA</string>
-	<key>244/05</key>
-	<string>Elisa</string>
-	<key>244/07</key>
-	<string>Nokia</string>
-	<key>244/08</key>
-	<string>Nokia</string>
-	<key>244/09</key>
-	<string>Finnet Group / [[Nokia Solutions and Networks</string>
-	<key>244/10</key>
-	<string>TDC</string>
-	<key>244/11</key>
-	<string>Vectone Mobile</string>
-	<key>244/12</key>
-	<string>DNA</string>
-	<key>244/13</key>
-	<string>DNA</string>
-	<key>244/14</key>
-	<string>AMT</string>
-	<key>244/15</key>
-	<string>SAMK</string>
-	<key>244/21</key>
-	<string>Saunalahti</string>
-	<key>244/25</key>
-	<string>Datame</string>
-	<key>244/26</key>
-	<string>Compatel</string>
-	<key>244/30</key>
-	<string>Vectone Mobile</string>
-	<key>244/31</key>
-	<string>Ukko Mobile</string>
-	<key>244/91</key>
-	<string>Sonera</string>
-	<key>246/01</key>
-	<string>Omnitel</string>
-	<key>246/02</key>
-	<string>BITĖ</string>
-	<key>246/03</key>
-	<string>Tele 2</string>
-	<key>246/05</key>
-	<string>LitRail</string>
-	<key>246/06</key>
-	<string>Mediafon</string>
-	<key>247/01</key>
-	<string>LMT</string>
-	<key>247/02</key>
-	<string>Tele2</string>
-	<key>247/03</key>
-	<string>TRIATEL</string>
-	<key>247/05</key>
-	<string>Bite</string>
-	<key>247/07</key>
-	<string>MTS</string>
-	<key>247/08</key>
-	<string>IZZI</string>
-	<key>247/09</key>
-	<string>Camel Mobile</string>
-	<key>248/01</key>
-	<string>EMT (mobile operator)|EMT</string>
-	<key>248/02</key>
-	<string>Elisa</string>
-	<key>248/03</key>
-	<string>Tele 2</string>
-	<key>250/01</key>
-	<string>MTS</string>
-	<key>250/02</key>
-	<string>MegaFon</string>
-	<key>250/03</key>
-	<string>NCC</string>
-	<key>250/04</key>
-	<string>Sibchallenge</string>
-	<key>250/05</key>
-	<string>ETK</string>
-	<key>250/06</key>
-	<string>http://www.skylink64.ru/ Skylink</string>
-	<key>250/07</key>
-	<string>SMARTS (mobile network operator)|SMARTS</string>
-	<key>250/09</key>
-	<string>Skylink</string>
-	<key>250/10</key>
-	<string>DTC</string>
-	<key>250/11</key>
-	<string>Yota</string>
-	<key>250/12</key>
-	<string>Akos</string>
-	<key>250/13</key>
-	<string>KUGSM</string>
-	<key>250/15</key>
-	<string>SMARTS (mobile network operator)|SMARTS</string>
-	<key>250/16</key>
-	<string>NTC</string>
-	<key>250/17</key>
-	<string>Utel</string>
-	<key>250/18</key>
-	<string>Osnova Telecom</string>
-	<key>250/19</key>
-	<string>INDIGO</string>
-	<key>250/20</key>
-	<string>Tele2</string>
-	<key>250/23</key>
-	<string>Mobicom - Novosibirsk</string>
-	<key>250/28</key>
-	<string>Beeline</string>
-	<key>250/35</key>
-	<string>MOTIV</string>
-	<key>250/38</key>
-	<string>Tambov GSM</string>
-	<key>250/39</key>
-	<string>Rostelecom</string>
-	<key>250/50</key>
-	<string>MTS</string>
-	<key>250/91</key>
-	<string>Sonic Duo</string>
-	<key>250/99</key>
-	<string>Beeline (brand)|Beeline</string>
-	<key>255/01</key>
-	<string>MTS</string>
-	<key>255/02</key>
-	<string>Beeline (telecommunications)|Beeline</string>
-	<key>255/03</key>
-	<string>Kyivstar</string>
-	<key>255/04</key>
-	<string>IT</string>
-	<key>255/05</key>
-	<string>Golden Telecom</string>
-	<key>255/06</key>
-	<string>Life:) Ukraine|life:)</string>
-	<key>255/07</key>
-	<string>3Mob</string>
-	<key>255/21</key>
-	<string>PEOPLEnet</string>
-	<key>255/23</key>
-	<string>CDMA Ukraine</string>
-	<key>255/25</key>
-	<string>NEWTONE</string>
-	<key>257/01</key>
-	<string>velcom</string>
-	<key>257/02</key>
-	<string>MTS</string>
-	<key>257/03</key>
-	<string>DIALLOG</string>
-	<key>257/04</key>
-	<string>life:) Belarus|life:)</string>
-	<key>257/501</key>
-	<string>BelCel JV</string>
-	<key>259/01</key>
-	<string>Orange</string>
-	<key>259/02</key>
-	<string>Moldcell</string>
-	<key>259/03</key>
-	<string>Unité</string>
-	<key>259/04</key>
-	<string>Eventis</string>
-	<key>259/05</key>
-	<string>Unité</string>
-	<key>259/99</key>
-	<string>Unité</string>
-	<key>260/01</key>
-	<string>Plus (telecommunications Poland)|Plus</string>
-	<key>260/02</key>
-	<string>T-Mobile (Poland)|T-Mobile</string>
-	<key>260/03</key>
-	<string>Orange Polska|Orange</string>
-	<key>260/06</key>
-	<string>Play Mobile|Play</string>
-	<key>260/07</key>
-	<string>Netia</string>
-	<key>260/09</key>
-	<string>Lycamobile</string>
-	<key>260/10</key>
-	<string>Sferia</string>
-	<key>260/11</key>
-	<string>Nordisk Polska</string>
-	<key>260/12</key>
-	<string>Cyfrowy Polsat</string>
-	<key>260/13</key>
-	<string>Sferia</string>
-	<key>260/14</key>
-	<string>Sferia</string>
-	<key>260/15</key>
-	<string>CenterNet</string>
-	<key>260/16</key>
-	<string>Mobyland</string>
-	<key>260/17</key>
-	<string>Aero2</string>
-	<key>262/01</key>
-	<string>T-Mobile</string>
-	<key>262/02</key>
-	<string>Vodafone</string>
-	<key>262/03</key>
-	<string>E-Plus</string>
-	<key>262/04</key>
-	<string>Vodafone</string>
-	<key>262/05</key>
-	<string>E-Plus</string>
-	<key>262/06</key>
-	<string>T-Mobile</string>
-	<key>262/07</key>
-	<string>O&lt;sub&gt;2&lt;/sub&gt;</string>
-	<key>262/08</key>
-	<string>O&lt;sub&gt;2&lt;/sub&gt;</string>
-	<key>262/09</key>
-	<string>Vodafone</string>
-	<key>262/11</key>
-	<string>O&lt;sub&gt;2&lt;/sub&gt;</string>
-	<key>262/12</key>
-	<string>Dolphin Telecom / sipgate</string>
-	<key>262/15</key>
-	<string>Airdata</string>
-	<key>262/16</key>
-	<string>Telogic ex. Vistream</string>
-	<key>262/20</key>
+	<key>23210</key>
+	<string>Hutchison 3G</string>
+	<key>23211</key>
+	<string>Mobilkom A1</string>
+	<key>23401</key>
+	<string>UK01 - Mapesbury Communications</string>
+	<key>23402</key>
+	<string>Telefonica (O2)</string>
+	<key>23403</key>
+	<string>Jersey Telenet</string>
+	<key>23404</key>
+	<string>FMS Solutions</string>
+	<key>23407</key>
+	<string>Cable and Wireless UK</string>
+	<key>23408</key>
 	<string>OnePhone</string>
-	<key>262/42</key>
-	<string>27C3</string>
-	<key>262/43</key>
-	<string>LYCA</string>
-	<key>262/77</key>
-	<string>E-Plus</string>
-	<key>262/901</key>
-	<string>Debitel</string>
-	<key>262/92</key>
-	<string>Nash Technologies</string>
-	<key>266/01</key>
-	<string>GibTel</string>
-	<key>266/06</key>
-	<string>CTS Mobile</string>
-	<key>266/09</key>
-	<string>Shine</string>
-	<key>268/01</key>
+	<key>23410</key>
+	<string>Telefonica (O2)</string>
+	<key>23411</key>
+	<string>Telefonica (O2)</string>
+	<key>23412</key>
+	<string>Railtrack</string>
+	<key>23414</key>
+	<string>Hay Systems</string>
+	<key>23415</key>
 	<string>Vodafone</string>
-	<key>268/03</key>
-	<string>Optimus</string>
-	<key>268/04</key>
-	<string>LycaMobile</string>
-	<key>268/06</key>
-	<string>TMN</string>
-	<key>268/07</key>
-	<string>Vectonemobile - Delightmobile</string>
-	<key>268/21</key>
-	<string>Zapp</string>
-	<key>270/01</key>
-	<string>LuxGSM</string>
-	<key>270/77</key>
-	<string>Tango</string>
-	<key>270/99</key>
+	<key>23416</key>
+	<string>Opal</string>
+	<key>23418</key>
+	<string>Cloud 9</string>
+	<key>23419</key>
+	<string>Teleware</string>
+	<key>23420</key>
+	<string>Hutchison 3G UK</string>
+	<key>23422</key>
+	<string>Routo Telecom Ltd.</string>
+	<key>23426</key>
+	<string>Lycamobile Limited</string>
+	<key>23430</key>
+	<string>T-Mobile</string>
+	<key>23431</key>
+	<string>T-Mobile (Virgin MVNO)</string>
+	<key>23432</key>
+	<string>T-Mobile (Virgin MVNO)</string>
+	<key>23433</key>
 	<string>Orange</string>
-	<key>272/01</key>
-	<string>Vodafone</string>
-	<key>272/02</key>
-	<string>O&lt;sub&gt;2&lt;/sub&gt;</string>
-	<key>272/03</key>
-	<string>Meteor (mobile network)|Meteor</string>
-	<key>272/05</key>
-	<string>3</string>
-	<key>272/07</key>
-	<string>eMobile</string>
-	<key>272/11</key>
-	<string>Tesco Mobile</string>
-	<key>272/13</key>
-	<string>Lycamobile</string>
-	<key>274/01</key>
-	<string>Síminn</string>
-	<key>274/02</key>
-	<string>Vodafone</string>
-	<key>274/03</key>
-	<string>Vodafone</string>
-	<key>274/04</key>
-	<string>Viking</string>
-	<key>274/07</key>
-	<string>IceCell</string>
-	<key>274/08</key>
-	<string>On-waves</string>
-	<key>274/11</key>
-	<string>Nova</string>
-	<key>274/12</key>
-	<string>Tal</string>
-	<key>276/01</key>
-	<string>AMC</string>
-	<key>276/02</key>
-	<string>Vodafone</string>
-	<key>276/03</key>
-	<string>Eagle Mobile</string>
-	<key>276/04</key>
-	<string>Plus Communication</string>
-	<key>278/01</key>
-	<string>Vodafone</string>
-	<key>278/21</key>
-	<string>GO (Malta)|GO</string>
-	<key>278/77</key>
-	<string>Melita (mobile operator)|Melita</string>
-	<key>280/01</key>
-	<string>Cytamobile-Vodafone</string>
-	<key>280/10</key>
-	<string>MTN</string>
-	<key>280/20</key>
-	<string>PrimeTel</string>
-	<key>282/01</key>
-	<string>Geocell</string>
-	<key>282/02</key>
-	<string>MagtiCom</string>
-	<key>282/03</key>
-	<string>MagtiCom</string>
-	<key>282/04</key>
-	<string>Beeline (telecommunications)|Beeline</string>
-	<key>282/05</key>
-	<string>Silknet</string>
-	<key>283/01</key>
-	<string>Beeline (telecommunications)|Beeline</string>
-	<key>283/04</key>
-	<string>http://www.kt.am/ Karabakh Telecom</string>
-	<key>283/05</key>
-	<string>http://mts.am/ VivaCell-MTS</string>
-	<key>283/10</key>
-	<string>Orange Armenia|Orange</string>
-	<key>284/01</key>
-	<string>M-Tel</string>
-	<key>284/03</key>
-	<string>Vivacom</string>
-	<key>284/04</key>
-	<string>Undisclosed</string>
-	<key>284/05</key>
-	<string>GLOBUL</string>
-	<key>286/01</key>
-	<string>Turkcell</string>
-	<key>286/02</key>
-	<string>Vodafone</string>
-	<key>286/03</key>
-	<string>Avea</string>
-	<key>288/01</key>
-	<string>Faroese Telecom</string>
-	<key>288/02</key>
-	<string>Vodafone</string>
-	<key>292/01</key>
-	<string>PRIMA</string>
-	<key>293/40</key>
-	<string>Si.mobil</string>
-	<key>293/41</key>
-	<string>Mobitel (Slovenia)|Mobitel</string>
-	<key>293/64</key>
-	<string>T-2</string>
-	<key>293/70</key>
-	<string>Tušmobil</string>
-	<key>294/01</key>
-	<string>T-Mobile MK</string>
-	<key>294/02</key>
-	<string>ONE</string>
-	<key>294/03</key>
-	<string>Vip MK</string>
-	<key>295/01</key>
-	<string>Swisscom</string>
-	<key>295/02</key>
+	<key>23434</key>
 	<string>Orange</string>
-	<key>295/05</key>
-	<string>FL1</string>
-	<key>295/06</key>
-	<string>Cubic Telecom</string>
-	<key>295/77</key>
-	<string>Alpmobil</string>
-	<key>297/01</key>
-	<string>Telenor</string>
-	<key>297/02</key>
-	<string>T-Mobile</string>
-	<key>297/03</key>
-	<string>m:tel CG</string>
-	<key>297/04</key>
-	<string>T-Mobile</string>
-	<key>302/220</key>
-	<string>Telus</string>
-	<key>302/221</key>
-	<string>Telus</string>
-	<key>302/270</key>
-	<string>EastLink</string>
-	<key>302/320</key>
-	<string>Mobilicity</string>
-	<key>302/350</key>
-	<string>FIRST</string>
-	<key>302/360</key>
-	<string>MiKe</string>
-	<key>302/361</key>
-	<string>Telus</string>
-	<key>302/370</key>
-	<string>Fido</string>
-	<key>302/380</key>
-	<string>DMTS</string>
-	<key>302/490</key>
-	<string>WIND Mobile</string>
-	<key>302/500</key>
-	<string>Videotron</string>
-	<key>302/510</key>
-	<string>Videotron</string>
-	<key>302/610</key>
-	<string>Bell</string>
-	<key>302/620</key>
-	<string>ICE Wireless</string>
-	<key>302/640</key>
-	<string>Bell</string>
-	<key>302/653</key>
-	<string>Telus</string>
-	<key>302/655</key>
-	<string>MTS</string>
-	<key>302/656</key>
-	<string>TBay</string>
-	<key>302/657</key>
-	<string>Telus</string>
-	<key>302/660</key>
-	<string>MTS</string>
-	<key>302/680</key>
-	<string>SaskTel</string>
-	<key>302/690</key>
-	<string>Bell</string>
-	<key>302/710</key>
-	<string>Globalstar</string>
-	<key>302/720</key>
-	<string>Rogers Wireless</string>
-	<key>302/780</key>
-	<string>SaskTel</string>
-	<key>302/880</key>
-	<string>Bell Canada|Bell]] / [[Telus]] / [[SaskTel</string>
-	<key>308/01</key>
-	<string>Ameris</string>
-	<key>308/02</key>
-	<string>GLOBALTEL</string>
-	<key>310/004</key>
-	<string>Verizon</string>
-	<key>310/005</key>
-	<string>Verizon</string>
-	<key>310/012</key>
-	<string>Verizon</string>
-	<key>310/013</key>
-	<string>MobileTel</string>
-	<key>310/016</key>
-	<string>Cricket Communications</string>
-	<key>310/026</key>
-	<string>T-Mobile</string>
-	<key>310/030</key>
-	<string>AT&amp;T</string>
-	<key>310/032</key>
-	<string>IT&amp;E Wireless</string>
-	<key>310/034</key>
-	<string>Airpeak</string>
-	<key>310/040</key>
-	<string>Concho</string>
-	<key>310/046</key>
-	<string>SIMMETRY</string>
-	<key>310/080</key>
-	<string>Corr</string>
-	<key>310/090</key>
-	<string>Cricket Communications</string>
-	<key>310/100</key>
-	<string>Plateau Wireless</string>
-	<key>310/110</key>
-	<string>PTI Pacifica</string>
-	<key>310/120</key>
-	<string>Sprint</string>
-	<key>310/140</key>
-	<string>mPulse</string>
-	<key>310/150</key>
-	<string>AT&amp;T</string>
-	<key>310/170</key>
-	<string>AT&amp;T</string>
-	<key>310/180</key>
-	<string>West Central</string>
-	<key>310/190</key>
-	<string>Dutch Harbor</string>
-	<key>310/280</key>
-	<string>AT&amp;T</string>
-	<key>310/300</key>
-	<string>Big Sky Mobile</string>
-	<key>310/320</key>
-	<string>Cellular One</string>
-	<key>310/330</key>
-	<string>T-Mobile</string>
-	<key>310/340</key>
-	<string>Westlink</string>
-	<key>310/370</key>
-	<string>Docomo</string>
-	<key>310/380</key>
-	<string>AT&amp;T</string>
-	<key>310/390</key>
-	<string>Cellular One of East Texas</string>
-	<key>310/400</key>
-	<string>i CAN_GSM</string>
-	<key>310/410</key>
-	<string>AT&amp;T</string>
-	<key>310/420</key>
-	<string>Cincinnati Bell</string>
-	<key>310/440</key>
-	<string>Cellular One</string>
-	<key>310/450</key>
-	<string>Viaero</string>
-	<key>310/460</key>
-	<string>Simmetry</string>
-	<key>310/470</key>
-	<string>nTelos</string>
-	<key>310/490</key>
-	<string>T-Mobile</string>
-	<key>310/500</key>
-	<string>Alltel</string>
-	<key>310/510</key>
-	<string>Airtel</string>
-	<key>310/520</key>
-	<string>VeriSign</string>
-	<key>310/540</key>
-	<string>Oklahoma Western</string>
-	<key>310/560</key>
-	<string>AT&amp;T</string>
-	<key>310/570</key>
-	<string>Cellular One</string>
-	<key>310/580</key>
-	<string>T-Mobile</string>
-	<key>310/59</key>
-	<string>Cellular One</string>
-	<key>310/590</key>
-	<string>Alltel</string>
-	<key>310/610</key>
-	<string>Epic Touch</string>
-	<key>310/620</key>
-	<string>Coleman County Telecom</string>
-	<key>310/630</key>
-	<string>AmeriLink PCS</string>
-	<key>310/640</key>
-	<string>Airadigm</string>
-	<key>310/650</key>
-	<string>Jasper</string>
-	<key>310/660</key>
-	<string>T-Mobile</string>
-	<key>310/670</key>
-	<string>Northstar</string>
-	<key>310/680</key>
-	<string>AT&amp;T</string>
-	<key>310/690</key>
-	<string>Immix</string>
-	<key>310/730</key>
-	<string>SeaMobile</string>
-	<key>310/740</key>
-	<string>Convey</string>
-	<key>310/750</key>
-	<string>Appalachian Wireless</string>
-	<key>310/760</key>
-	<string>Panhandle</string>
-	<key>310/770</key>
-	<string>i wireless</string>
-	<key>310/790</key>
-	<string>PinPoint</string>
-	<key>310/830</key>
-	<string>Caprock</string>
-	<key>310/840</key>
-	<string>telna Mobile</string>
-	<key>310/850</key>
-	<string>Aeris</string>
-	<key>310/870</key>
-	<string>PACE</string>
-	<key>310/880</key>
-	<string>Advantage</string>
-	<key>310/890</key>
-	<string>Unicel</string>
-	<key>310/900</key>
-	<string>Mid-Rivers Wireless</string>
-	<key>310/910</key>
-	<string>First Cellular</string>
-	<key>310/950</key>
-	<string>XIT Wireless</string>
-	<key>310/960</key>
-	<string>Plateau Wireless</string>
-	<key>310/970</key>
-	<string>Globalstar</string>
-	<key>310/980</key>
-	<string>AT&amp;T</string>
-	<key>310/990</key>
-	<string>AT&amp;T</string>
-	<key>311/010</key>
-	<string>Chariton Valley</string>
-	<key>311/060</key>
-	<string>Farmers Cellular</string>
-	<key>311/070</key>
-	<string>Easterbrooke</string>
-	<key>311/080</key>
-	<string>Pine Cellular</string>
-	<key>311/090</key>
-	<string>Long Lines Wireless</string>
-	<key>311/140</key>
-	<string>Sprocket</string>
-	<key>311/170</key>
-	<string>PetroCom</string>
-	<key>311/250</key>
-	<string>i CAN_GSM</string>
-	<key>311/330</key>
-	<string>Bug Tussel Wireless</string>
-	<key>311/480</key>
-	<string>Verizon</string>
-	<key>311/481-489</key>
-	<string>Verizon</string>
-	<key>311/660</key>
-	<string>metroPCS</string>
-	<key>311/960</key>
-	<string>Lycamobile</string>
-	<key>311/970</key>
-	<string>Big River Broadband</string>
-	<key>313/100</key>
-	<string>700&amp;nbsp;MHz Public Safety Broadband</string>
-	<key>313/101-199</key>
-	<string>700&amp;nbsp;MHz Public Safety Broadband</string>
-	<key>316/010</key>
-	<string>Nextel</string>
-	<key>330/00</key>
-	<string>Open Mobile</string>
-	<key>330/110</key>
-	<string>Claro</string>
-	<key>330/120</key>
-	<string>Open Mobile</string>
-	<key>334/010</key>
-	<string>Nextel</string>
-	<key>334/020</key>
-	<string>Telcel</string>
-	<key>334/030</key>
-	<string>movistar</string>
-	<key>334/040</key>
-	<string>Iusacell]] / [[Unefon</string>
-	<key>334/050</key>
-	<string>Iusacell</string>
-	<key>334/090</key>
-	<string>Nextel</string>
-	<key>338/020</key>
-	<string>LIME (Cable &amp; Wireless)|LIME</string>
-	<key>338/050</key>
-	<string>Digicel</string>
-	<key>338/180</key>
-	<string>LIME (Cable &amp; Wireless)|LIME</string>
-	<key>340/01</key>
-	<string>Orange</string>
-	<key>340/02</key>
-	<string>Outremer</string>
-	<key>340/03</key>
-	<string>Telcell</string>
-	<key>340/08</key>
-	<string>Dauphin</string>
-	<key>340/20</key>
-	<string>Digicel</string>
-	<key>342/600</key>
-	<string>LIME (Cable &amp; Wireless)|LIME</string>
-	<key>342/750</key>
-	<string>Digicel</string>
-	<key>344/030</key>
-	<string>APUA</string>
-	<key>344/050</key>
-	<string>Digicel</string>
-	<key>344/920</key>
-	<string>LIME (Cable &amp; Wireless)|LIME</string>
-	<key>346/050</key>
-	<string>Digicel</string>
-	<key>346/140</key>
-	<string>LIME (Cable &amp; Wireless)|LIME</string>
-	<key>348/170</key>
-	<string>LIME (Cable &amp; Wireless)|LIME</string>
-	<key>348/570</key>
-	<string>CCT Boatphone</string>
-	<key>348/770</key>
-	<string>Digicel</string>
-	<key>350/01</key>
-	<string>Digicel Bermuda</string>
-	<key>350/02</key>
-	<string>Mobility</string>
-	<key>352/030</key>
-	<string>Digicel</string>
-	<key>352/110</key>
-	<string>Cable &amp;  Wireless</string>
-	<key>354/860</key>
-	<string>Cable &amp; Wireless</string>
-	<key>356/050</key>
-	<string>Digicel</string>
-	<key>356/070</key>
-	<string>Chippie</string>
-	<key>356/110</key>
-	<string>LIME (Cable &amp; Wireless)|LIME</string>
-	<key>358/050</key>
-	<string>Digicel{{Citation needed|date=August 2010}}</string>
-	<key>360/070</key>
-	<string>Digicel</string>
-	<key>360/100</key>
-	<string>Cingular Wireless</string>
-	<key>360/110</key>
-	<string>Lime</string>
-	<key>362/51</key>
-	<string>Telcell</string>
-	<key>362/69</key>
-	<string>Digicel</string>
-	<key>362/91</key>
-	<string>UTS</string>
-	<key>362/94</key>
-	<string>Bayòs</string>
-	<key>362/95</key>
-	<string>MIO</string>
-	<key>363/01</key>
-	<string>SetarNV|SETAR</string>
-	<key>363/02</key>
-	<string>Digicel</string>
-	<key>364/39</key>
-	<string>BaTelCo</string>
-	<key>366/020</key>
-	<string>Digicel</string>
-	<key>368/01</key>
-	<string>CUBACEL</string>
-	<key>370/01</key>
-	<string>Orange</string>
-	<key>370/02</key>
-	<string>Claro</string>
-	<key>370/03</key>
-	<string>Tricom</string>
-	<key>370/04</key>
-	<string>Viva</string>
-	<key>372/01</key>
-	<string>Comcel Haiti|Voila</string>
-	<key>372/02</key>
-	<string>Digicel</string>
-	<key>372/03</key>
-	<string>http://www.natcom.com.ht/ Natcom</string>
-	<key>374/12</key>
-	<string>TSTT|bmobile</string>
-	<key>374/130</key>
-	<string>Digicel</string>
-	<key>376/350</key>
-	<string>C&amp;W</string>
-	<key>376/352</key>
-	<string>Islandcom</string>
-	<key>400/01</key>
-	<string>Azercell</string>
-	<key>400/02</key>
-	<string>Bakcell</string>
-	<key>400/03</key>
-	<string>FONEX</string>
-	<key>400/04</key>
-	<string>Nar Mobile</string>
-	<key>401/01</key>
-	<string>Beeline (telecommunications)|Beeline</string>
-	<key>401/02</key>
-	<string>Kcell</string>
-	<key>401/07</key>
-	<string>Dalacom</string>
-	<key>401/08</key>
-	<string>Kazakhtelecom</string>
-	<key>401/10</key>
+	<key>23450</key>
+	<string>Jersey Telecom Wave</string>
+	<key>23455</key>
+	<string>Guernsey</string>
+	<key>23458</key>
+	<string>Manx</string>
+	<key>23475</key>
+	<string>Inquam Telecom</string>
+	<key>23801</key>
+	<string>Tele Denmark (TDC A/S)</string>
+	<key>23802</key>
+	<string>Sonofon</string>
+	<key>23806</key>
+	<string>Hi3G</string>
+	<key>23820</key>
+	<string>Telia (Orange)</string>
+	<key>23877</key>
+	<string>Tele2</string>
+	<key>24001</key>
+	<string>Telia</string>
+	<key>24002</key>
+	<string>Hi3G</string>
+	<key>24007</key>
+	<string>Comviq (Tele2)</string>
+	<key>24201</key>
+	<string>Telenor Mobil</string>
+	<key>24202</key>
+	<string>Netcom</string>
+	<key>24204</key>
+	<string>Tele2</string>
+	<key>24205</key>
+	<string>Network</string>
+	<key>24401</key>
+	<string>Elisa Corporation-GSM 900/1800 Finland</string>
+	<key>24403</key>
+	<string>DNA Finland</string>
+	<key>24405</key>
+	<string>Elisa Corporation-GSM 900/1800 Finland</string>
+	<key>24409</key>
+	<string>DNA Finland</string>
+	<key>24412</key>
+	<string>DNA Finland</string>
+	<key>24414</key>
+	<string>Alands Mobiltelefon AB</string>
+	<key>24421</key>
+	<string>Elisa Corporation-GSM 900/1800 Finland</string>
+	<key>24491</key>
+	<string>TeliaSonera</string>
+	<key>24601</key>
+	<string>Omnitel</string>
+	<key>24602</key>
+	<string>Bite GSM UAB</string>
+	<key>24603</key>
+	<string>Tele2 UAB</string>
+	<key>24701</key>
+	<string>Latvian Mobile Telephone</string>
+	<key>24702</key>
+	<string>Tele2 (Baltcom GSM)</string>
+	<key>24705</key>
+	<string>Bite GSM</string>
+	<key>24801</key>
+	<string>AS EMT</string>
+	<key>24802</key>
+	<string>Elisa Esti</string>
+	<key>24803</key>
+	<string>Tele2 Eesti</string>
+	<key>25001</key>
+	<string>Mobile TeleSysytem (MTS)</string>
+	<key>25002</key>
+	<string>MegaFon (JSC Sonic Duo)</string>
+	<key>25003</key>
+	<string>Nizhegorodskaya Cellular Communications</string>
+	<key>25004</key>
+	<string>Sibchallenge</string>
+	<key>25007</key>
+	<string>Zao Smarts</string>
+	<key>25010</key>
 	<string>Dontelecom</string>
-	<key>401/77</key>
-	<string>Tele2#Kazakhstan|Tele2.kz</string>
-	<key>402/11</key>
-	<string>B-Mobile</string>
-	<key>402/77</key>
-	<string>TashiCell</string>
-	<key>404/01</key>
-	<string>Vodafone IN</string>
-	<key>404/02</key>
-	<string>AirTel</string>
-	<key>404/03</key>
-	<string>AirTel</string>
-	<key>404/04</key>
-	<string>IDEA</string>
-	<key>404/05</key>
-	<string>Vodafone IN</string>
-	<key>404/07</key>
-	<string>IDEA</string>
-	<key>404/09</key>
-	<string>Reliance</string>
-	<key>404/10</key>
-	<string>AirTel</string>
-	<key>404/11</key>
-	<string>Vodafone IN</string>
-	<key>404/12</key>
-	<string>IDEA</string>
-	<key>404/13</key>
-	<string>Vodafone IN</string>
-	<key>404/14</key>
-	<string>IDEA</string>
-	<key>404/15</key>
-	<string>Vodafone IN</string>
-	<key>404/16</key>
-	<string>Airtel</string>
-	<key>404/17</key>
-	<string>AIRCEL</string>
-	<key>404/18</key>
-	<string>Reliance</string>
-	<key>404/19</key>
-	<string>IDEA</string>
-	<key>404/20</key>
-	<string>Vodafone IN</string>
-	<key>404/21</key>
-	<string>Loop Mobile</string>
-	<key>404/22</key>
-	<string>IDEA</string>
-	<key>404/24</key>
-	<string>IDEA</string>
-	<key>404/25</key>
-	<string>AIRCEL</string>
-	<key>404/27</key>
-	<string>Vodafone IN</string>
-	<key>404/28</key>
-	<string>AIRCEL</string>
-	<key>404/29</key>
-	<string>AIRCEL</string>
-	<key>404/30</key>
-	<string>Vodafone IN</string>
-	<key>404/31</key>
-	<string>AirTel</string>
-	<key>404/34</key>
-	<string>CellOne</string>
-	<key>404/36</key>
-	<string>Reliance</string>
-	<key>404/37</key>
-	<string>Aircel</string>
-	<key>404/38</key>
-	<string>CellOne</string>
-	<key>404/40</key>
-	<string>AirTel</string>
-	<key>404/41</key>
-	<string>Aircel</string>
-	<key>404/42</key>
-	<string>Aircel</string>
-	<key>404/43</key>
-	<string>Vodafone IN</string>
-	<key>404/44</key>
-	<string>IDEA</string>
-	<key>404/45</key>
-	<string>Airtel</string>
-	<key>404/46</key>
-	<string>Vodafone IN</string>
-	<key>404/48</key>
-	<string>Dishnet Wireless</string>
-	<key>404/49</key>
-	<string>Airtel</string>
-	<key>404/50</key>
-	<string>Reliance</string>
-	<key>404/51</key>
-	<string>CellOne</string>
-	<key>404/52</key>
-	<string>Reliance</string>
-	<key>404/53</key>
-	<string>CellOne</string>
-	<key>404/54</key>
-	<string>CellOne</string>
-	<key>404/55</key>
-	<string>CellOne</string>
-	<key>404/56</key>
-	<string>IDEA</string>
-	<key>404/57</key>
-	<string>CellOne</string>
-	<key>404/58</key>
-	<string>CellOne</string>
-	<key>404/59</key>
-	<string>CellOne</string>
-	<key>404/60</key>
-	<string>Vodafone IN</string>
-	<key>404/62</key>
-	<string>CellOne</string>
-	<key>404/64</key>
-	<string>CellOne</string>
-	<key>404/66</key>
-	<string>CellOne</string>
-	<key>404/67</key>
-	<string>Reliance</string>
-	<key>404/68</key>
-	<string>DOLPHIN</string>
-	<key>404/69</key>
-	<string>DOLPHIN</string>
-	<key>404/70</key>
-	<string>AirTel</string>
-	<key>404/71</key>
-	<string>CellOne</string>
-	<key>404/72</key>
-	<string>CellOne</string>
-	<key>404/73</key>
-	<string>CellOne</string>
-	<key>404/74</key>
-	<string>CellOne</string>
-	<key>404/75</key>
-	<string>CellOne</string>
-	<key>404/76</key>
-	<string>CellOne</string>
-	<key>404/77</key>
-	<string>CellOne</string>
-	<key>404/78</key>
-	<string>Idea Cellular Ltd</string>
-	<key>404/79</key>
-	<string>CellOne</string>
-	<key>404/80</key>
-	<string>CellOne</string>
-	<key>404/81</key>
-	<string>CellOne</string>
-	<key>404/82</key>
-	<string>Idea</string>
-	<key>404/83</key>
-	<string>Reliance</string>
-	<key>404/84</key>
-	<string>Vodafone IN</string>
-	<key>404/85</key>
-	<string>Reliance</string>
-	<key>404/86</key>
-	<string>Vodafone IN</string>
-	<key>404/87</key>
-	<string>IDEA</string>
-	<key>404/88</key>
-	<string>Vodafone IN</string>
-	<key>404/89</key>
-	<string>Idea</string>
-	<key>404/90</key>
-	<string>AirTel</string>
-	<key>404/91</key>
-	<string>AIRCEL</string>
-	<key>404/92</key>
-	<string>AirTel</string>
-	<key>404/93</key>
-	<string>AirTel</string>
-	<key>404/94</key>
-	<string>AirTel</string>
-	<key>404/95</key>
-	<string>AirTel</string>
-	<key>404/96</key>
-	<string>AirTel</string>
-	<key>404/97</key>
-	<string>AirTel</string>
-	<key>404/98</key>
-	<string>AirTel</string>
-	<key>405/01</key>
-	<string>Reliance</string>
-	<key>405/025</key>
-	<string>TATA DOCOMO</string>
-	<key>405/026</key>
-	<string>TATA DOCOMO</string>
-	<key>405/027</key>
-	<string>TATA DOCOMO</string>
-	<key>405/028</key>
-	<string>TATA DOCOMO</string>
-	<key>405/029</key>
-	<string>TATA DOCOMO</string>
-	<key>405/03</key>
-	<string>Reliance</string>
-	<key>405/030</key>
-	<string>TATA DOCOMO</string>
-	<key>405/031</key>
-	<string>TATA DOCOMO</string>
-	<key>405/032</key>
-	<string>TATA DOCOMO</string>
-	<key>405/033</key>
-	<string>TATA DOCOMO</string>
-	<key>405/034</key>
-	<string>TATA DOCOMO</string>
-	<key>405/035</key>
-	<string>TATA DOCOMO</string>
-	<key>405/036</key>
-	<string>TATA DOCOMO</string>
-	<key>405/037</key>
-	<string>TATA DOCOMO</string>
-	<key>405/038</key>
-	<string>TATA DOCOMO</string>
-	<key>405/039</key>
-	<string>TATA DOCOMO</string>
-	<key>405/04</key>
-	<string>Reliance</string>
-	<key>405/041</key>
-	<string>TATA DOCOMO</string>
-	<key>405/042</key>
-	<string>TATA DOCOMO</string>
-	<key>405/043</key>
-	<string>TATA DOCOMO</string>
-	<key>405/044</key>
-	<string>TATA DOCOMO</string>
-	<key>405/045</key>
-	<string>TATA DOCOMO</string>
-	<key>405/046</key>
-	<string>TATA DOCOMO</string>
-	<key>405/047</key>
-	<string>TATA DOCOMO</string>
-	<key>405/05</key>
-	<string>Reliance</string>
-	<key>405/06</key>
-	<string>Reliance</string>
-	<key>405/07</key>
-	<string>Reliance</string>
-	<key>405/08</key>
-	<string>Reliance</string>
-	<key>405/09</key>
-	<string>Reliance</string>
-	<key>405/10</key>
-	<string>Reliance</string>
-	<key>405/11</key>
-	<string>Reliance</string>
-	<key>405/12</key>
-	<string>Reliance</string>
-	<key>405/13</key>
-	<string>Reliance</string>
-	<key>405/14</key>
-	<string>Reliance</string>
-	<key>405/15</key>
-	<string>Reliance</string>
-	<key>405/17</key>
-	<string>Reliance</string>
-	<key>405/18</key>
-	<string>Reliance</string>
-	<key>405/19</key>
-	<string>Reliance</string>
-	<key>405/20</key>
-	<string>Reliance</string>
-	<key>405/21</key>
-	<string>Reliance</string>
-	<key>405/22</key>
-	<string>Reliance</string>
-	<key>405/23</key>
-	<string>Reliance</string>
-	<key>405/51</key>
-	<string>AirTel</string>
-	<key>405/52</key>
-	<string>AirTel</string>
-	<key>405/53</key>
-	<string>AirTel</string>
-	<key>405/54</key>
-	<string>AirTel</string>
-	<key>405/55</key>
-	<string>Airtel</string>
-	<key>405/56</key>
-	<string>AirTel</string>
-	<key>405/66</key>
-	<string>Vodafone IN</string>
-	<key>405/70</key>
-	<string>IDEA</string>
-	<key>405/750</key>
-	<string>Vodafone IN</string>
-	<key>405/751</key>
-	<string>Vodafone IN</string>
-	<key>405/752</key>
-	<string>Vodafone IN</string>
-	<key>405/753</key>
-	<string>Vodafone IN</string>
-	<key>405/754</key>
-	<string>Vodafone IN</string>
-	<key>405/755</key>
-	<string>Vodafone IN</string>
-	<key>405/756</key>
-	<string>Vodafone IN</string>
-	<key>405/799</key>
-	<string>IDEA</string>
-	<key>405/800</key>
-	<string>AIRCEL</string>
-	<key>405/801</key>
-	<string>AIRCEL</string>
-	<key>405/802</key>
-	<string>AIRCEL</string>
-	<key>405/803</key>
-	<string>AIRCEL</string>
-	<key>405/804</key>
-	<string>AIRCEL</string>
-	<key>405/805</key>
-	<string>AIRCEL</string>
-	<key>405/806</key>
-	<string>AIRCEL</string>
-	<key>405/807</key>
-	<string>AIRCEL</string>
-	<key>405/808</key>
-	<string>AIRCEL</string>
-	<key>405/809</key>
-	<string>AIRCEL</string>
-	<key>405/810</key>
-	<string>AIRCEL</string>
-	<key>405/811</key>
-	<string>AIRCEL</string>
-	<key>405/812</key>
-	<string>AIRCEL</string>
-	<key>405/818</key>
-	<string>Uninor</string>
-	<key>405/819</key>
-	<string>Uninor</string>
-	<key>405/820</key>
-	<string>Uninor</string>
-	<key>405/821</key>
-	<string>Uninor</string>
-	<key>405/822</key>
-	<string>Uninor</string>
-	<key>405/824</key>
-	<string>Videocon Datacom</string>
-	<key>405/827</key>
-	<string>Videocon Datacom</string>
-	<key>405/834</key>
-	<string>Videocon Datacom</string>
-	<key>405/844</key>
-	<string>Uninor</string>
-	<key>405/845</key>
-	<string>IDEA</string>
-	<key>405/846</key>
-	<string>IDEA</string>
-	<key>405/847</key>
-	<string>IDEA</string>
-	<key>405/848</key>
-	<string>IDEA</string>
-	<key>405/849</key>
-	<string>IDEA</string>
-	<key>405/850</key>
-	<string>IDEA</string>
-	<key>405/851</key>
-	<string>IDEA</string>
-	<key>405/852</key>
-	<string>IDEA</string>
-	<key>405/853</key>
-	<string>IDEA</string>
-	<key>405/854</key>
-	<string>Loop Mobile</string>
-	<key>405/855</key>
-	<string>Loop Mobile</string>
-	<key>405/856</key>
-	<string>Loop Mobile</string>
-	<key>405/857</key>
-	<string>Loop Mobile</string>
-	<key>405/858</key>
-	<string>Loop Mobile</string>
-	<key>405/859</key>
-	<string>Loop Mobile</string>
-	<key>405/860</key>
-	<string>Loop Mobile</string>
-	<key>405/861</key>
-	<string>Loop Mobile</string>
-	<key>405/862</key>
-	<string>Loop Mobile</string>
-	<key>405/863</key>
-	<string>Loop Mobile</string>
-	<key>405/864</key>
-	<string>Loop Mobile</string>
-	<key>405/865</key>
-	<string>Loop Mobile</string>
-	<key>405/866</key>
-	<string>Loop Mobile</string>
-	<key>405/867</key>
-	<string>Loop Mobile</string>
-	<key>405/868</key>
-	<string>Loop Mobile</string>
-	<key>405/869</key>
-	<string>Loop Mobile</string>
-	<key>405/870</key>
-	<string>Loop Mobile</string>
-	<key>405/871</key>
-	<string>Loop Mobile</string>
-	<key>405/872</key>
-	<string>Loop Mobile</string>
-	<key>405/873</key>
-	<string>Loop Mobile</string>
-	<key>405/874</key>
-	<string>Loop Mobile</string>
-	<key>405/875</key>
-	<string>Uninor</string>
-	<key>405/880</key>
-	<string>Uninor</string>
-	<key>405/881</key>
-	<string>S Tel</string>
-	<key>405/908</key>
-	<string>IDEA</string>
-	<key>405/909</key>
-	<string>IDEA</string>
-	<key>405/910</key>
-	<string>IDEA</string>
-	<key>405/911</key>
-	<string>IDEA</string>
-	<key>405/912</key>
-	<string>Etisalat DB(cheers)</string>
-	<key>405/913</key>
-	<string>Etisalat DB(cheers)</string>
-	<key>405/914</key>
-	<string>Etisalat DB(cheers)</string>
-	<key>405/917</key>
-	<string>Etisalat DB(cheers)</string>
-	<key>405/927</key>
-	<string>Uninor</string>
-	<key>405/929</key>
-	<string>Uninor</string>
-	<key>410/01</key>
-	<string>Mobilink</string>
-	<key>410/03</key>
-	<string>Ufone</string>
-	<key>410/04</key>
-	<string>ZONG|Zong</string>
-	<key>410/06</key>
-	<string>Telenor</string>
-	<key>410/07</key>
-	<string>Warid</string>
-	<key>412/01</key>
-	<string>Afghan Wireless|AWCC</string>
-	<key>412/20</key>
-	<string>Roshan (telco)|Roshan</string>
-	<key>412/40</key>
-	<string>MTN Group|MTN</string>
-	<key>412/50</key>
-	<string>Emirates Telecommunications Corporation|Etisalat</string>
-	<key>413/01</key>
-	<string>Mobitel (Sri Lanka)|Mobitel</string>
-	<key>413/02</key>
-	<string>Dialog Axiata|Dialog</string>
-	<key>413/03</key>
-	<string>Etisalat Lanka|Etisalat</string>
-	<key>413/05</key>
-	<string>Airtel Lanka|Airtel</string>
-	<key>413/08</key>
-	<string>Hutch Sri Lanka|Hutch</string>
-	<key>414/01</key>
-	<string>MPT</string>
-	<key>415/01</key>
-	<string>Alfa (Lebanon)|Alfa</string>
-	<key>415/03</key>
-	<string>mtc touch</string>
-	<key>415/05</key>
-	<string>Ogero Mobile</string>
-	<key>416/01</key>
-	<string>Zain|zain JO</string>
-	<key>416/03</key>
-	<string>Umniah</string>
-	<key>416/74</key>
-	<string>XPress Telecom</string>
-	<key>416/77</key>
-	<string>Orange Jordan|Orange</string>
-	<key>417/01</key>
-	<string>Syriatel</string>
-	<key>417/02</key>
-	<string>MTN</string>
-	<key>418/05</key>
-	<string>Asia Cell</string>
-	<key>418/08</key>
-	<string>SanaTel</string>
-	<key>418/20</key>
-	<string>Zain</string>
-	<key>418/30</key>
-	<string>Zain</string>
-	<key>418/40</key>
-	<string>Korek Telecom|Korek</string>
-	<key>418/45</key>
-	<string>Mobitel (Iraq-Kurdistan)|Mobitel</string>
-	<key>418/62</key>
-	<string>Itisaluna</string>
-	<key>418/92</key>
-	<string>Omnnea</string>
-	<key>419/02</key>
-	<string>Zain|zain KW</string>
-	<key>419/03</key>
-	<string>Wataniya</string>
-	<key>419/04</key>
-	<string>Viva</string>
-	<key>420/01</key>
-	<string>Al Jawal (STC )</string>
-	<key>420/03</key>
-	<string>Mobily</string>
-	<key>420/04</key>
-	<string>Zain]] SA</string>
-	<key>420/21</key>
-	<string>RGSM</string>
-	<key>421/01</key>
-	<string>Sabafon|SabaFon</string>
-	<key>421/02</key>
-	<string>MTN Group|MTN</string>
-	<key>421/03</key>
-	<string>Yemen Mobile</string>
-	<key>421/04</key>
-	<string>HiTS-UNITEL</string>
-	<key>422/02</key>
-	<string>Oman Mobile</string>
-	<key>422/03</key>
-	<string>Nawras</string>
-	<key>424/02</key>
-	<string>Etisalat</string>
-	<key>424/03</key>
-	<string>du (telco)|du</string>
-	<key>425/01</key>
-	<string>Orange</string>
-	<key>425/02</key>
-	<string>Cellcom (Israel)|Cellcom</string>
-	<key>425/03</key>
-	<string>Pelephone</string>
-	<key>425/05</key>
-	<string>Jawwal</string>
-	<key>425/06</key>
-	<string>Wataniya</string>
-	<key>425/07</key>
-	<string>Hot Mobile</string>
-	<key>425/08</key>
-	<string>Golan Telecom</string>
-	<key>425/14</key>
-	<string>Youphone</string>
-	<key>425/15</key>
-	<string>Home Cellular</string>
-	<key>425/16</key>
-	<string>Rami Levy Hashikma Marketing|Rami Levy</string>
-	<key>425/18</key>
-	<string>Cellact Communications</string>
-	<key>426/01</key>
-	<string>Batelco</string>
-	<key>426/02</key>
-	<string>Zain|zain BH</string>
-	<key>426/04</key>
-	<string>VIVA</string>
-	<key>426/05</key>
-	<string>Batelco</string>
-	<key>427/01</key>
-	<string>ooredoo</string>
-	<key>427/02</key>
+	<key>25012</key>
+	<string>Sibirtelecom</string>
+	<key>25013</key>
+	<string>Kuban-GSM</string>
+	<key>25016</key>
+	<string>New Telephone Company (NTC)</string>
+	<key>25017</key>
+	<string>Emark RMS</string>
+	<key>25020</key>
+	<string>Tele2 (Oblkom)</string>
+	<key>25028</key>
+	<string>Extel</string>
+	<key>25035</key>
+	<string>Motiv</string>
+	<key>25039</key>
+	<string>Uraltel</string>
+	<key>25044</key>
+	<string>StavTeleSot (North-Caucasian GSM)</string>
+	<key>25092</key>
+	<string>Primtelefone</string>
+	<key>25099</key>
+	<string>Beeline GSM 900/1800_ RUSSIJA</string>
+	<key>25501</key>
+	<string>UMC</string>
+	<key>25502</key>
+	<string>Ukrainian Radio Systems</string>
+	<key>25503</key>
+	<string>Kyivstar</string>
+	<key>25505</key>
+	<string>Golden Telecom</string>
+	<key>25506</key>
+	<string>Astelit</string>
+	<key>25701</key>
+	<string>Mobile Digital Communications (VELCOM)</string>
+	<key>25702</key>
+	<string>Mobile Telesystems</string>
+	<key>25704</key>
+	<string>Belarusian Telecommunications Network CJSC</string>
+	<key>25901</key>
+	<string>Voxtel</string>
+	<key>25902</key>
+	<string>Moldcell</string>
+	<key>25904</key>
+	<string>Eventis Mobile S.R.L.</string>
+	<key>26001</key>
+	<string>Plus (Polkomtel)</string>
+	<key>26002</key>
+	<string>Era (Heyah)</string>
+	<key>26006</key>
+	<string>P4 Sp. z o.o (PLAY)</string>
+	<key>26201</key>
+	<string>D1 (T-Mobile)</string>
+	<key>26202</key>
+	<string>D2 (Vodafone)</string>
+	<key>26203</key>
+	<string>E-plus</string>
+	<key>26204</key>
+	<string>D2 (Vodafone)</string>
+	<key>26205</key>
+	<string>E-plus</string>
+	<key>26207</key>
+	<string>O2 (Viag Interkom)</string>
+	<key>26208</key>
+	<string>O2 (Viag Interkom)</string>
+	<key>26209</key>
+	<string>D2 (Vodafone)</string>
+	<key>26211</key>
+	<string>O2 (Viag Interkom)</string>
+	<key>26277</key>
+	<string>E-plus</string>
+	<key>26601</key>
+	<string>Gibtel</string>
+	<key>26801</key>
+	<string>Telecel (Vodafone)</string>
+	<key>26803</key>
+	<string>Optimus (Sonaecom)</string>
+	<key>26806</key>
+	<string>TMN</string>
+	<key>27001</key>
+	<string>P &amp; T</string>
+	<key>27077</key>
+	<string>Tango</string>
+	<key>27099</key>
+	<string>VOXmobile</string>
+	<key>27201</key>
+	<string>Eircell (Vodafone)</string>
+	<key>27202</key>
+	<string>Esat Digifone (O2)</string>
+	<key>27203</key>
+	<string>Meteor</string>
+	<key>27205</key>
+	<string>Hutchison 3G</string>
+	<key>27401</key>
+	<string>Iceland Telecom Ltd (Landssiminn)</string>
+	<key>27402</key>
+	<string>Islandssimi (Vodafone)</string>
+	<key>27406</key>
+	<string>Null niu ehf</string>
+	<key>27411</key>
+	<string>Nova</string>
+	<key>27601</key>
+	<string>AMC Mobile</string>
+	<key>27602</key>
 	<string>Vodafone</string>
-	<key>427/05</key>
-	<string>Ministry of Interior</string>
-	<key>428/88</key>
-	<string>Unitel (Mongolia)|Unitel</string>
-	<key>428/91</key>
-	<string>Skytel (Mongolia)|Skytel</string>
-	<key>428/98</key>
-	<string>G.Mobile (Mongolia)|G.Mobile</string>
-	<key>428/99</key>
-	<string>MobiCom</string>
-	<key>429/01</key>
-	<string>Namaste / NT Mobile</string>
-	<key>429/02</key>
-	<string>Ncell</string>
-	<key>429/03</key>
-	<string>Sky/C-Phone</string>
-	<key>429/04</key>
-	<string>SmartCell</string>
-	<key>432/11</key>
-	<string>IR-MCI</string>
-	<key>432/14</key>
-	<string>TKC</string>
-	<key>432/19</key>
-	<string>MTCE</string>
-	<key>432/20</key>
-	<string>Rightel</string>
-	<key>432/32</key>
-	<string>Taliya</string>
-	<key>432/35</key>
-	<string>Irancell</string>
-	<key>432/70</key>
-	<string>Telecommunication Company of Iran|TCI</string>
-	<key>432/93</key>
-	<string>Iraphone</string>
-	<key>434/03</key>
-	<string>UzMobile</string>
-	<key>434/04</key>
-	<string>Beeline (telecommunications)|Beeline</string>
-	<key>434/05</key>
-	<string>Ucell</string>
-	<key>434/06</key>
-	<string>Perfectum Mobile</string>
-	<key>434/07</key>
-	<string>Mobile TeleSystems|MTS</string>
-	<key>436/01</key>
-	<string>Tcell</string>
-	<key>436/02</key>
-	<string>Tcell</string>
-	<key>436/03</key>
-	<string>Megafon</string>
-	<key>436/04</key>
-	<string>Babilon-M</string>
-	<key>436/05</key>
-	<string>Beeline (telecommunications)|Tacom</string>
-	<key>436/12</key>
-	<string>Tcell</string>
-	<key>437/01</key>
-	<string>Beeline (telecommunications)|Beeline</string>
-	<key>437/03</key>
-	<string>Fonex</string>
-	<key>437/05</key>
-	<string>MegaCom</string>
-	<key>437/09</key>
-	<string>O!</string>
-	<key>438/01</key>
-	<string>MTS (BARASH Communication)</string>
-	<key>438/02</key>
-	<string>TM-Cell</string>
-	<key>440/00</key>
-	<string>eMobile</string>
-	<key>440/01</key>
-	<string>NTT docomo</string>
-	<key>440/02</key>
-	<string>NTT docomo</string>
-	<key>440/03</key>
-	<string>NTT docomo</string>
-	<key>440/04</key>
-	<string>SoftBank</string>
-	<key>440/06</key>
-	<string>SoftBank</string>
-	<key>440/07</key>
-	<string>KDDI</string>
-	<key>440/08</key>
-	<string>KDDI</string>
-	<key>440/09</key>
-	<string>NTT docomo</string>
-	<key>440/10</key>
-	<string>NTT docomo</string>
-	<key>440/11</key>
-	<string>NTT docomo</string>
-	<key>440/12</key>
-	<string>NTT docomo</string>
-	<key>440/13</key>
-	<string>NTT docomo</string>
-	<key>440/14</key>
-	<string>NTT docomo</string>
-	<key>440/15</key>
-	<string>NTT docomo</string>
-	<key>440/16</key>
-	<string>NTT docomo</string>
-	<key>440/17</key>
-	<string>NTT docomo</string>
-	<key>440/18</key>
-	<string>NTT docomo</string>
-	<key>440/19</key>
-	<string>NTT docomo</string>
-	<key>440/20</key>
-	<string>SoftBank</string>
-	<key>440/21</key>
-	<string>NTT docomo</string>
-	<key>440/22</key>
-	<string>NTT docomo</string>
-	<key>440/23</key>
-	<string>NTT docomo</string>
-	<key>440/24</key>
-	<string>NTT docomo</string>
-	<key>440/25</key>
-	<string>NTT docomo</string>
-	<key>440/26</key>
-	<string>NTT docomo</string>
-	<key>440/27</key>
-	<string>NTT docomo</string>
-	<key>440/28</key>
-	<string>NTT docomo</string>
-	<key>440/29</key>
-	<string>NTT docomo</string>
-	<key>440/30</key>
-	<string>NTT docomo</string>
-	<key>440/31</key>
-	<string>NTT docomo</string>
-	<key>440/32</key>
-	<string>NTT docomo</string>
-	<key>440/33</key>
-	<string>NTT docomo</string>
-	<key>440/34</key>
-	<string>NTT docomo</string>
-	<key>440/35</key>
-	<string>NTT DoCoMo</string>
-	<key>440/36</key>
-	<string>NTT DoCoMo</string>
-	<key>440/37</key>
-	<string>NTT DoCoMo</string>
-	<key>440/38</key>
-	<string>NTT DoCoMo</string>
-	<key>440/39</key>
-	<string>NTT DoCoMo</string>
-	<key>440/40</key>
-	<string>SoftBank</string>
-	<key>440/41</key>
-	<string>SoftBank</string>
-	<key>440/42</key>
-	<string>SoftBank</string>
-	<key>440/43</key>
-	<string>SoftBank</string>
-	<key>440/44</key>
-	<string>SoftBank</string>
-	<key>440/45</key>
-	<string>SoftBank</string>
-	<key>440/46</key>
-	<string>SoftBank</string>
-	<key>440/47</key>
-	<string>SoftBank</string>
-	<key>440/48</key>
-	<string>SoftBank</string>
-	<key>440/49</key>
-	<string>NTT DoCoMo</string>
-	<key>440/50</key>
-	<string>KDDI</string>
-	<key>440/51</key>
-	<string>KDDI</string>
-	<key>440/52</key>
-	<string>KDDI</string>
-	<key>440/53</key>
-	<string>KDDI</string>
-	<key>440/54</key>
-	<string>KDDI</string>
-	<key>440/55</key>
-	<string>KDDI</string>
-	<key>440/56</key>
-	<string>KDDI</string>
-	<key>440/58</key>
-	<string>NTT DoCoMo</string>
-	<key>440/60</key>
-	<string>NTT DoCoMo</string>
-	<key>440/61</key>
-	<string>NTT DoCoMo</string>
-	<key>440/62</key>
-	<string>NTT DoCoMo</string>
-	<key>440/63</key>
-	<string>NTT DoCoMo</string>
-	<key>440/64</key>
-	<string>NTT DoCoMo</string>
-	<key>440/65</key>
-	<string>NTT DoCoMo</string>
-	<key>440/66</key>
-	<string>NTT DoCoMo</string>
-	<key>440/67</key>
-	<string>NTT DoCoMo</string>
-	<key>440/68</key>
-	<string>NTT DoCoMo</string>
-	<key>440/69</key>
-	<string>NTT DoCoMo</string>
-	<key>440/70</key>
-	<string>au (mobile phone operator)|au</string>
-	<key>440/71</key>
-	<string>KDDI</string>
-	<key>440/72</key>
-	<string>KDDI</string>
-	<key>440/73</key>
-	<string>KDDI</string>
-	<key>440/74</key>
-	<string>KDDI</string>
-	<key>440/75</key>
-	<string>KDDI</string>
-	<key>440/76</key>
-	<string>KDDI</string>
-	<key>440/77</key>
-	<string>KDDI</string>
-	<key>440/79</key>
-	<string>KDDI</string>
-	<key>440/80</key>
-	<string>TU-KA</string>
-	<key>440/81</key>
-	<string>TU-KA</string>
-	<key>440/82</key>
-	<string>TU-KA</string>
-	<key>440/83</key>
-	<string>TU-KA</string>
-	<key>440/84</key>
-	<string>TU-KA</string>
-	<key>440/85</key>
-	<string>TU-KA</string>
-	<key>440/86</key>
-	<string>TU-KA</string>
-	<key>440/87</key>
-	<string>NTT DoCoMo</string>
-	<key>440/88</key>
-	<string>KDDI</string>
-	<key>440/89</key>
-	<string>KDDI</string>
-	<key>440/90</key>
-	<string>SoftBank</string>
-	<key>440/92</key>
-	<string>SoftBank</string>
-	<key>440/93</key>
-	<string>SoftBank</string>
-	<key>440/94</key>
-	<string>SoftBank</string>
-	<key>440/95</key>
-	<string>SoftBank</string>
-	<key>440/96</key>
-	<string>SoftBank</string>
-	<key>440/97</key>
-	<string>SoftBank</string>
-	<key>440/98</key>
-	<string>SoftBank</string>
-	<key>440/99</key>
-	<string>NTT DoCoMo</string>
-	<key>450/02</key>
-	<string>KT</string>
-	<key>450/03</key>
-	<string>Power 017</string>
-	<key>450/04</key>
-	<string>KT</string>
-	<key>450/05</key>
-	<string>SKTelecom</string>
-	<key>450/06</key>
-	<string>LG U+</string>
-	<key>450/08</key>
-	<string>olleh</string>
-	<key>450/11</key>
-	<string>SKTelecom</string>
-	<key>452/01</key>
-	<string>MobiFone</string>
-	<key>452/02</key>
-	<string>Vinaphone</string>
-	<key>452/03</key>
-	<string>S-Fone</string>
-	<key>452/04</key>
-	<string>Viettel Mobile</string>
-	<key>452/05</key>
-	<string>Vietnamobile (HT Mobile )</string>
-	<key>452/06</key>
-	<string>EVNTelecom</string>
-	<key>452/07</key>
-	<string>G-Mobile</string>
-	<key>452/08</key>
-	<string>3G EVNTelecom</string>
-	<key>454/00</key>
-	<string>1O1O / One2Free / New World Mobility</string>
-	<key>454/03</key>
-	<string>Hutchison 3G|3]] (3G)</string>
-	<key>454/04</key>
-	<string>Hutchison 3G|3]] (2G)</string>
-	<key>454/05</key>
-	<string>Hutchison 3G|3]] (CDMA)</string>
-	<key>454/06</key>
-	<string>SmarTone</string>
-	<key>454/08</key>
-	<string>Truphone</string>
-	<key>454/10</key>
-	<string>New World Mobility</string>
-	<key>454/12</key>
-	<string>CMCC HK</string>
-	<key>454/13</key>
-	<string>CMCC HK</string>
-	<key>454/16</key>
-	<string>PCCW Mobile]] (2G)</string>
-	<key>454/19</key>
-	<string>PCCW Mobile]] (3G)</string>
-	<key>454/22</key>
-	<string>P Plus</string>
-	<key>454/29</key>
-	<string>PCCW Mobile]] (CDMA)</string>
-	<key>455/00</key>
-	<string>SmarTone</string>
-	<key>455/01</key>
-	<string>CTM (Macau)|CTM</string>
-	<key>455/02</key>
-	<string>China Telecom</string>
-	<key>455/03</key>
-	<string>3</string>
-	<key>455/04</key>
-	<string>CTM (Macau)|CTM</string>
-	<key>455/05</key>
-	<string>3</string>
-	<key>456/01</key>
-	<string>Cellcard</string>
-	<key>456/02</key>
-	<string>http://www.smart.com.kh Smart</string>
-	<key>456/04</key>
-	<string>qb</string>
-	<key>456/05</key>
-	<string>Star-Cell</string>
-	<key>456/06</key>
-	<string>http://www.smart.com.kh Smart</string>
-	<key>456/08</key>
-	<string>Metfone</string>
-	<key>456/09</key>
-	<string>Beeline (telecommunications)|Beeline</string>
-	<key>456/11</key>
-	<string>Excell</string>
-	<key>456/18</key>
-	<string>Cellcard</string>
-	<key>457/01</key>
-	<string>LTC</string>
-	<key>457/02</key>
-	<string>ETL</string>
-	<key>457/03</key>
-	<string>Unitel</string>
-	<key>457/08</key>
-	<string>Beeline</string>
-	<key>460/00</key>
-	<string>China Mobile</string>
-	<key>460/01</key>
-	<string>China Unicom</string>
-	<key>460/02</key>
-	<string>China Mobile</string>
-	<key>460/03</key>
-	<string>China Telecom</string>
-	<key>460/05</key>
-	<string>China Telecom</string>
-	<key>460/06</key>
-	<string>China Unicom</string>
-	<key>460/07</key>
-	<string>China Mobile</string>
-	<key>460/20</key>
-	<string>China Tietong</string>
-	<key>466/01</key>
-	<string>FarEasTone</string>
-	<key>466/05</key>
-	<string>APTG</string>
-	<key>466/06</key>
-	<string>Tuntex</string>
-	<key>466/11</key>
-	<string>Chunghwa LDM</string>
-	<key>466/88</key>
-	<string>KG Telecom</string>
-	<key>466/89</key>
-	<string>VIBO</string>
-	<key>466/92</key>
-	<string>Chungwa</string>
-	<key>466/93</key>
-	<string>MobiTai</string>
-	<key>466/97</key>
-	<string>Taiwan Mobile</string>
-	<key>466/99</key>
-	<string>TransAsia</string>
-	<key>467/05</key>
-	<string>Koryolink</string>
-	<key>467/193</key>
-	<string>SunNet</string>
-	<key>470/01</key>
-	<string>Grameenphone</string>
-	<key>470/02</key>
-	<string>Robi</string>
-	<key>470/03</key>
-	<string>Banglalink]] Sheba</string>
-	<key>470/04</key>
-	<string>TeleTalk</string>
-	<key>470/05</key>
-	<string>Citycell</string>
-	<key>470/06</key>
-	<string>Beeong3G]] Warid Telekom{{citation needed|date=July 2013}}</string>
-	<key>470/07</key>
-	<string>Airtel Bangla|Airtel</string>
-	<key>472/01</key>
-	<string>Dhiraagu</string>
-	<key>472/02</key>
-	<string>Wataniya</string>
-	<key>502/01</key>
-	<string>ATUR 450</string>
-	<key>502/11</key>
-	<string>TM Homeline</string>
-	<key>502/12</key>
-	<string>Maxis</string>
-	<key>502/13</key>
-	<string>Celcom</string>
-	<key>502/150</key>
-	<string>Tune Talk</string>
-	<key>502/152</key>
-	<string>Yes 4G|Yes</string>
-	<key>502/16</key>
-	<string>DiGi</string>
-	<key>502/17</key>
-	<string>Hotlink</string>
-	<key>502/18</key>
-	<string>TM Homeline</string>
-	<key>502/19</key>
-	<string>Celcom</string>
-	<key>505/01</key>
-	<string>Telstra</string>
-	<key>505/02</key>
-	<string>Optus</string>
-	<key>505/03</key>
-	<string>Vodafone</string>
-	<key>505/05</key>
-	<string>Ozitel</string>
-	<key>505/06</key>
-	<string>Hutchison 3G|3</string>
-	<key>505/08</key>
-	<string>One.Tel</string>
-	<key>505/09</key>
-	<string>Airnet</string>
-	<key>505/10</key>
-	<string>Norfolk Telecom</string>
-	<key>505/12</key>
-	<string>Hutchison 3G|3</string>
-	<key>505/13</key>
-	<string>Railcorp</string>
-	<key>505/14</key>
-	<string>AAPT Limited|AAPT</string>
-	<key>505/15</key>
-	<string>3GIS</string>
-	<key>505/16</key>
-	<string>VicTrack|Victorian Rail Track</string>
-	<key>505/18</key>
-	<string>Pactel</string>
-	<key>505/19</key>
-	<string>Lycamobile Pty Ltd</string>
-	<key>505/21</key>
-	<string>Soul (telecommunications)|SOUL</string>
-	<key>505/24</key>
-	<string>Advance Communications Technologies Pty. Ltd.</string>
-	<key>505/38</key>
-	<string>Crazy John's</string>
-	<key>505/62,68</key>
-	<string>National Broadband Network|NBN</string>
-	<key>505/71</key>
-	<string>Telstra</string>
-	<key>505/72</key>
-	<string>Telstra</string>
-	<key>505/88</key>
-	<string>Localstar Holding Pty. Ltd.</string>
-	<key>505/90</key>
-	<string>Optus</string>
-	<key>505/99</key>
-	<string>One.Tel</string>
-	<key>510/00</key>
-	<string>PSN</string>
-	<key>510/01</key>
-	<string>INDOSAT</string>
-	<key>510/03</key>
-	<string>StarOne</string>
-	<key>510/07</key>
-	<string>Telkom Indonesia|TelkomFlexi</string>
-	<key>510/08</key>
-	<string>Natrindo|AXIS</string>
-	<key>510/09</key>
-	<string>SMART</string>
-	<key>510/10</key>
-	<string>Telkomsel</string>
-	<key>510/11</key>
-	<string>Excelcomindo|XL</string>
-	<key>510/20</key>
-	<string>TELKOMMobile</string>
-	<key>510/21</key>
-	<string>Indosat|IM3</string>
-	<key>510/27</key>
-	<string>Ceria</string>
-	<key>510/28</key>
-	<string>Mobile8|Fren/Hepi</string>
-	<key>510/89</key>
-	<string>Hutchison 3G|3</string>
-	<key>510/99</key>
-	<string>Bakrie Telecom|Esia</string>
-	<key>510/995/996</key>
-	<string>Komselindo</string>
-	<key>514/01</key>
-	<string>Telin</string>
-	<key>515/01</key>
-	<string>Islacom</string>
-	<key>515/02</key>
-	<string>Globe</string>
-	<key>515/03</key>
-	<string>Smart</string>
-	<key>515/05</key>
-	<string>Sun</string>
-	<key>515/18</key>
-	<string>Cure</string>
-	<key>520/00</key>
-	<string>my by CAT</string>
-	<key>520/01</key>
-	<string>Advanced Info Service|AIS</string>
-	<key>520/02</key>
-	<string>CAT CDMA</string>
-	<key>520/03</key>
-	<string>Advanced Info Service|AIS]] 3G</string>
-	<key>520/04</key>
-	<string>truemove H [[4G LTE</string>
-	<key>520/05</key>
-	<string>dtac|dtac 3G</string>
-	<key>520/10</key>
-	<string>?</string>
-	<key>520/15</key>
-	<string>TOT 3G</string>
-	<key>520/18</key>
-	<string>dtac</string>
-	<key>520/23</key>
-	<string>AIS GSM 1800</string>
-	<key>520/25</key>
-	<string>WE PCT</string>
-	<key>520/99</key>
-	<string>truemove</string>
-	<key>525/01</key>
-	<string>SingTel</string>
-	<key>525/02</key>
-	<string>SingTel-G18</string>
-	<key>525/03</key>
-	<string>M1</string>
-	<key>525/05</key>
-	<string>StarHub</string>
-	<key>525/06</key>
-	<string>StarHub</string>
-	<key>525/07</key>
-	<string>SingTel</string>
-	<key>525/12</key>
-	<string>Grid</string>
-	<key>528/02</key>
-	<string>B-Mobile</string>
-	<key>528/11</key>
-	<string>DSTCom</string>
-	<key>530/00</key>
-	<string>Telecom</string>
-	<key>530/01</key>
-	<string>Vodafone</string>
-	<key>530/02</key>
-	<string>Telecom</string>
-	<key>530/03</key>
-	<string>Woosh</string>
-	<key>530/04</key>
-	<string>TelstraClear</string>
-	<key>530/05</key>
-	<string>XT Mobile Network</string>
-	<key>530/06</key>
-	<string>Skinny</string>
-	<key>530/24</key>
-	<string>2degrees</string>
-	<key>536/02</key>
-	<string>Digicel</string>
-	<key>537/01</key>
-	<string>BeMobile</string>
-	<key>537/03</key>
-	<string>Digicel</string>
-	<key>539/01</key>
-	<string>U-Call</string>
-	<key>539/88</key>
-	<string>Digicel</string>
-	<key>540/01</key>
-	<string>BREEZE</string>
-	<key>540/02</key>
-	<string>BeMobile</string>
-	<key>541/00</key>
-	<string>AIL</string>
-	<key>541/01</key>
-	<string>SMILE</string>
-	<key>541/05</key>
-	<string>Digicel</string>
-	<key>542/01</key>
-	<string>Vodafone</string>
-	<key>542/02</key>
-	<string>Digicel</string>
-	<key>544/11</key>
-	<string>Bluesky</string>
-	<key>545/01</key>
-	<string>Kiribati - TSKL</string>
-	<key>545/09</key>
-	<string>Kiribati - Frigate Net</string>
-	<key>546/01</key>
-	<string>Mobilis</string>
-	<key>547/20</key>
-	<string>Vini</string>
-	<key>549/01</key>
-	<string>Digicel</string>
-	<key>549/27</key>
-	<string>Bluesky</string>
-	<key>552/01</key>
-	<string>PNCC</string>
-	<key>552/80</key>
-	<string>Palau Mobile</string>
-	<key>553/01</key>
-	<string>TTC</string>
-	<key>555/01</key>
-	<string>Telecom Niue</string>
-	<key>602/01</key>
-	<string>Mobinil</string>
-	<key>602/02</key>
-	<string>Vodafone</string>
-	<key>602/03</key>
-	<string>Etisalat</string>
-	<key>603/01</key>
-	<string>Mobilis</string>
-	<key>603/02</key>
-	<string>Djezzy</string>
-	<key>603/03</key>
-	<string>Nedjma</string>
-	<key>604/00</key>
-	<string>Méditel</string>
-	<key>604/01</key>
-	<string>IAM</string>
-	<key>604/02</key>
-	<string>Wana Corporate</string>
-	<key>604/05</key>
-	<string>Inwi (Telecommunications)|INWI</string>
-	<key>605/01</key>
-	<string>Orange</string>
-	<key>605/02</key>
-	<string>Tunicell</string>
-	<key>605/03</key>
-	<string>Tunisiana</string>
-	<key>606/00</key>
-	<string>Libyana</string>
-	<key>606/01</key>
-	<string>Madar</string>
-	<key>606/02</key>
-	<string>Al-Jeel Phone</string>
-	<key>606/03</key>
-	<string>Libya Phone</string>
-	<key>606/06</key>
-	<string>Hatef Libya</string>
-	<key>607/01</key>
-	<string>Gamcel</string>
-	<key>607/02</key>
-	<string>Africel</string>
-	<key>607/03</key>
-	<string>Comium</string>
-	<key>607/04</key>
-	<string>QCell</string>
-	<key>608/01</key>
-	<string>Orange S.A.|Orange</string>
-	<key>608/02</key>
-	<string>Tigo</string>
-	<key>608/03</key>
-	<string>Expresso</string>
-	<key>609/01</key>
-	<string>Mattel</string>
-	<key>609/02</key>
-	<string>Chinguitel</string>
-	<key>609/10</key>
-	<string>Mauritel</string>
-	<key>610/01</key>
-	<string>Malitel</string>
-	<key>610/02</key>
-	<string>Orange</string>
-	<key>611/01</key>
-	<string>Orange S.A.</string>
-	<key>611/02</key>
-	<string>Sotelgui</string>
-	<key>611/03</key>
-	<string>Telecel Guinee</string>
-	<key>611/04</key>
-	<string>MTN</string>
-	<key>611/05</key>
-	<string>Cellcom</string>
-	<key>612/02</key>
-	<string>Moov</string>
-	<key>612/03</key>
-	<string>Orange</string>
-	<key>612/04</key>
-	<string>KoZ</string>
-	<key>612/05</key>
-	<string>MTN</string>
-	<key>612/06</key>
-	<string>ORICEL</string>
-	<key>613/01</key>
-	<string>Telmob</string>
-	<key>613/02</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>613/03</key>
-	<string>Telecel Faso</string>
-	<key>614/01</key>
-	<string>SahelCom</string>
-	<key>614/02</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>614/03</key>
-	<string>Moov</string>
-	<key>614/04</key>
-	<string>Orange</string>
-	<key>615/01</key>
-	<string>Togo Cell</string>
-	<key>615/03</key>
-	<string>Moov</string>
-	<key>616/01</key>
-	<string>Libercom</string>
-	<key>616/02</key>
-	<string>Moov</string>
-	<key>616/03</key>
-	<string>MTN Group|MTN</string>
-	<key>616/04</key>
-	<string>BBCOM</string>
-	<key>617/01</key>
-	<string>Orange S.A.|Orange</string>
-	<key>617/02</key>
-	<string>MTML</string>
-	<key>617/10</key>
-	<string>Emtel</string>
-	<key>618/01</key>
-	<string>Lonestar Cell</string>
-	<key>618/02</key>
-	<string>Libercell</string>
-	<key>618/04</key>
-	<string>Comium</string>
-	<key>618/07</key>
-	<string>Cellcom</string>
-	<key>618/20</key>
-	<string>LIBTELCO</string>
-	<key>619/01</key>
-	<string>Airtel</string>
-	<key>619/02</key>
-	<string>Tigo</string>
-	<key>619/03</key>
-	<string>Africell</string>
-	<key>619/04</key>
-	<string>Comium</string>
-	<key>619/05</key>
-	<string>Africell</string>
-	<key>619/25</key>
+	<key>27603</key>
+	<string>Eagle Mobile</string>
+	<key>27801</key>
+	<string>Vodafone Malta</string>
+	<key>27821</key>
+	<string>Mobile Communications Ltd (Go mobile)</string>
+	<key>27877</key>
+	<string>Melita Mobile Ltd. (3 G Telecoms Malta)</string>
+	<key>28001</key>
+	<string>CYTA (Vodafone)</string>
+	<key>28010</key>
+	<string>Areeba (Scancom)</string>
+	<key>28201</key>
+	<string>Geocell</string>
+	<key>28202</key>
+	<string>Magti Com</string>
+	<key>28301</key>
+	<string>ArmenTel</string>
+	<key>28305</key>
+	<string>Vivacell(K Telecom)</string>
+	<key>28401</key>
+	<string>Mobiltel</string>
+	<key>28405</key>
+	<string>Cosmo Bulgaria Mobile EAD (GloBul)</string>
+	<key>28406</key>
+	<string>Vivatel</string>
+	<key>28601</key>
+	<string>Turkcell</string>
+	<key>28602</key>
+	<string>Telsim (Vodafone)</string>
+	<key>28603</key>
+	<string>Aria</string>
+	<key>28604</key>
+	<string>Aycell</string>
+	<key>28801</key>
+	<string>Faroese Telecom</string>
+	<key>28802</key>
+	<string>Kall</string>
+	<key>29001</key>
+	<string>Tele Greenland A/S</string>
+	<key>29340</key>
+	<string>Si Mobil</string>
+	<key>29341</key>
 	<string>Mobitel</string>
-	<key>619/?</key>
-	<string>LeoneCel</string>
-	<key>620/01</key>
-	<string>MTN</string>
-	<key>620/02</key>
-	<string>Vodafone Ghana|Vodafone</string>
-	<key>620/03</key>
-	<string>tiGO</string>
-	<key>620/04</key>
-	<string>Expresso</string>
-	<key>620/06</key>
-	<string>Airtel Africa#Ghana|Airtel</string>
-	<key>620/07</key>
-	<string>Globacom (Zain)</string>
-	<key>621/20</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>621/25</key>
-	<string>Visafone</string>
-	<key>621/30</key>
-	<string>MTN Group|MTN</string>
-	<key>621/40</key>
-	<string>M-Tel</string>
-	<key>621/50</key>
-	<string>Glo</string>
-	<key>621/60</key>
-	<string>Etisalat</string>
-	<key>622/01</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>622/02</key>
-	<string>Tawali</string>
-	<key>622/03</key>
-	<string>Tigo</string>
-	<key>622/04</key>
-	<string>Salam</string>
-	<key>623/01</key>
-	<string>CTP</string>
-	<key>623/02</key>
-	<string>TC</string>
-	<key>623/03</key>
-	<string>Orange</string>
-	<key>623/04</key>
-	<string>Nationlink</string>
-	<key>624/01</key>
-	<string>MTN Cameroon</string>
-	<key>624/02</key>
-	<string>Orange</string>
-	<key>625/01</key>
-	<string>CVMOVEL</string>
-	<key>625/02</key>
-	<string>T+</string>
-	<key>626/01</key>
-	<string>CSTmovel</string>
-	<key>627/01</key>
-	<string>Orange GQ</string>
-	<key>627/03</key>
-	<string>Hits GQ</string>
-	<key>628/01</key>
-	<string>Libertis</string>
-	<key>628/02</key>
-	<string>Moov</string>
-	<key>628/03</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>628/04</key>
-	<string>Azur</string>
-	<key>629/01</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>629/10</key>
-	<string>Libertis Telecom</string>
-	<key>630/01</key>
-	<string>Vodacom</string>
-	<key>630/02</key>
-	<string>Zain</string>
-	<key>630/05</key>
-	<string>Supercell</string>
-	<key>630/10</key>
-	<string>Libertis Telecom</string>
-	<key>630/86</key>
-	<string>CCT</string>
-	<key>630/89</key>
-	<string>Tigo]] DRC Sait Telecom</string>
-	<key>630/992</key>
-	<string>Africell</string>
-	<key>631/02</key>
-	<string>Unitel (Angola)|UNITEL</string>
-	<key>631/04</key>
-	<string>Movicel|MOVICEL</string>
-	<key>632/02</key>
-	<string>Areeba</string>
-	<key>632/03</key>
-	<string>Orange</string>
-	<key>632/07</key>
-	<string>Guinetel</string>
-	<key>633/01</key>
-	<string>Cable &amp; Wireless Worldwide|Cable &amp; Wireless</string>
-	<key>633/02</key>
-	<string>Mediatech International</string>
-	<key>633/10</key>
-	<string>Airtel</string>
-	<key>634/</key>
-	<string>Canar</string>
-	<key>634/01</key>
-	<string>Zain]] SD</string>
-	<key>634/02</key>
-	<string>MTN Group|MTN</string>
-	<key>634/07</key>
-	<string>Sudani One</string>
-	<key>634/09</key>
-	<string>Privet Network</string>
-	<key>635/10</key>
-	<string>MTN Group|MTN</string>
-	<key>635/12</key>
-	<string>Rwandatel</string>
-	<key>635/13</key>
-	<string>Tigo</string>
-	<key>635/14</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>636/01</key>
-	<string>ETH-MTN</string>
-	<key>637/01</key>
-	<string>Telesom</string>
-	<key>637/04</key>
-	<string>Somafone</string>
-	<key>637/10</key>
-	<string>Nationlink</string>
-	<key>637/25</key>
-	<string>Hormuud</string>
-	<key>637/30</key>
-	<string>Golis</string>
-	<key>637/57</key>
-	<string>Unittel</string>
-	<key>637/60</key>
-	<string>Nationlink Telecom</string>
-	<key>637/71</key>
-	<string>Somtel</string>
-	<key>637/82</key>
-	<string>Telcom</string>
-	<key>638/01</key>
-	<string>Evatis</string>
-	<key>639/02</key>
-	<string>Safaricom</string>
-	<key>639/03</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>639/05</key>
-	<string>yu</string>
-	<key>639/07</key>
-	<string>Orange Kenya</string>
-	<key>640/02</key>
-	<string>tiGO</string>
-	<key>640/03</key>
-	<string>Zantel</string>
-	<key>640/04</key>
-	<string>Vodacom</string>
-	<key>640/05</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>640/06</key>
-	<string>http://www.sasatel.co.tz/ Sasatel</string>
-	<key>640/07</key>
-	<string>http://www.ttcl.co.tz/ TTCL Mobile</string>
-	<key>640/08</key>
-	<string>http://www.bolmobile.co.tz Benson Online (BOL)</string>
-	<key>640/09</key>
-	<string>http://www.hits-tanzania.co.tz/ Hits</string>
-	<key>640/11</key>
-	<string>SmileCom</string>
-	<key>641/01</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>641/10</key>
-	<string>MTN Group|MTN</string>
-	<key>641/11</key>
-	<string>UTL</string>
-	<key>641/14</key>
-	<string>Orange S.A.|Orange</string>
-	<key>641/22</key>
-	<string>Warid Telecom</string>
-	<key>641/33</key>
-	<string>Smile</string>
-	<key>641/44</key>
-	<string>K2</string>
-	<key>641/66</key>
-	<string>i-Tel</string>
-	<key>642/01</key>
-	<string>Spacetel</string>
-	<key>642/02</key>
-	<string>Tempo</string>
-	<key>642/03</key>
-	<string>Onatel</string>
-	<key>642/07</key>
-	<string>Smart Mobile</string>
-	<key>642/08</key>
-	<string>HiTs Telecom</string>
-	<key>642/82</key>
-	<string>Leo</string>
-	<key>643/01</key>
-	<string>mCel</string>
-	<key>643/03</key>
-	<string>Movitel</string>
-	<key>643/04</key>
-	<string>Vodacom</string>
-	<key>645/01</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>645/02</key>
-	<string>MTN</string>
-	<key>645/03</key>
-	<string>ZAMTEL</string>
-	<key>646/01</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>646/02</key>
-	<string>Orange</string>
-	<key>646/03</key>
-	<string>Sacel</string>
-	<key>646/04</key>
-	<string>Telma</string>
-	<key>647/00</key>
-	<string>Orange</string>
-	<key>647/02</key>
-	<string>Outremer</string>
-	<key>647/10</key>
-	<string>SFR Reunion</string>
-	<key>648/01</key>
-	<string>Net*One</string>
-	<key>648/03</key>
-	<string>Telecel</string>
-	<key>648/04</key>
-	<string>Econet</string>
-	<key>649/01</key>
-	<string>MTC</string>
-	<key>649/02</key>
-	<string>switch</string>
-	<key>649/03</key>
-	<string>Leo Namibia|Leo</string>
-	<key>650/01</key>
-	<string>TNM</string>
-	<key>650/10</key>
-	<string>Bharti Airtel|Airtel</string>
-	<key>651/01</key>
-	<string>Vodacom</string>
-	<key>652/01</key>
-	<string>Mascom</string>
-	<key>652/02</key>
-	<string>Orange</string>
-	<key>652/04</key>
-	<string>BTC Mobile</string>
-	<key>653/10</key>
-	<string>Swazi MTN</string>
-	<key>655/01</key>
-	<string>Vodacom</string>
-	<key>655/02</key>
-	<string>Telkom Mobile / 8.ta / Telekom SA</string>
-	<key>655/06</key>
-	<string>Sentech</string>
-	<key>655/07</key>
-	<string>Cell C</string>
-	<key>655/10</key>
-	<string>MTN</string>
-	<key>655/13</key>
-	<string>Neotel</string>
-	<key>655/19</key>
-	<string>iBurst</string>
-	<key>657/01</key>
-	<string>Eritel</string>
-	<key>659/02</key>
-	<string>MTN</string>
-	<key>659/03</key>
-	<string>Gemtel</string>
-	<key>659/04</key>
-	<string>Vivacell</string>
-	<key>659/06</key>
-	<string>Zain</string>
-	<key>659/07</key>
-	<string>Sudani</string>
-	<key>702/67</key>
-	<string>DigiCell</string>
-	<key>702/99</key>
-	<string>Smart</string>
-	<key>704/01</key>
-	<string>Claro</string>
-	<key>704/0201</key>
-	<string>Tigo</string>
-	<key>704/03</key>
-	<string>movistar</string>
-	<key>704/?</key>
-	<string>RED/[[INTELFON</string>
-	<key>706/01</key>
-	<string>CTE Telecom Personal, [[Claro (mobile phone network)|Claro</string>
-	<key>706/02</key>
-	<string>digicel</string>
-	<key>706/03</key>
-	<string>Tigo</string>
-	<key>706/04</key>
-	<string>movistar</string>
-	<key>708/001</key>
-	<string>Claro</string>
-	<key>708/02</key>
-	<string>Tigo</string>
-	<key>708/30</key>
-	<string>Hondutel</string>
-	<key>708/40</key>
-	<string>DIGICEL</string>
-	<key>710/21</key>
-	<string>Claro</string>
-	<key>710/30</key>
-	<string>movistar</string>
-	<key>710/73</key>
-	<string>SERCOM</string>
-	<key>712/01</key>
-	<string>Kolbi ICE</string>
-	<key>712/017</key>
-	<string>'''full'''móvil</string>
-	<key>712/02</key>
-	<string>Kolbi ICE</string>
-	<key>712/03</key>
-	<string>Claro</string>
-	<key>712/04</key>
-	<string>movistar</string>
-	<key>714/01</key>
+	<key>29370</key>
+	<string>Tusmobile</string>
+	<key>29401</key>
+	<string>T-Mobile (MobiMak)</string>
+	<key>29402</key>
+	<string>Cosmofon</string>
+	<key>29501</key>
+	<string>Telecom FL (Swisscom)</string>
+	<key>29505</key>
+	<string>Mobilkom (Liechtenstein) AG (FL1)</string>
+	<key>29577</key>
+	<string>Tele2 AG (Tango)</string>
+	<key>29702</key>
+	<string>Promonte</string>
+	<key>29703</key>
+	<string>MTel</string>
+	<key>29704</key>
+	<string>MONET</string>
+	<key>302064</key>
+	<string>Bell Mobility - Rogers Wireless CDMA</string>
+	<key>302220</key>
+	<string>Telus</string>
+	<key>302302</key>
+	<string>Telus Mobility</string>
+	<key>302360</key>
+	<string>Telus Mobility</string>
+	<key>302370</key>
+	<string>Microcell</string>
+	<key>302610</key>
+	<string>Bell Mobility - Rogers Wireless CDMA</string>
+	<key>302653</key>
+	<string>Telus Mobility</string>
+	<key>302720</key>
+	<string>Rogers Wireless Inc</string>
+	<key>310004</key>
+	<string>Verizon Wireless</string>
+	<key>310012</key>
+	<string>Verizon Wireless</string>
+	<key>310013</key>
+	<string>Verizon Wireless (Formerly Alltel)</string>
+	<key>310016</key>
+	<string>Cricket Communications</string>
+	<key>310017</key>
+	<string>North Sight Communications</string>
+	<key>310020</key>
+	<string>Union Telephone Company (APC Sprint Spectrum)</string>
+	<key>310026</key>
+	<string>T-Mobile (Cook Inlet)</string>
+	<key>310030</key>
+	<string>Centennial Communications</string>
+	<key>310040</key>
+	<string>Concho Cellular</string>
+	<key>310050</key>
+	<string>ACS Wireless</string>
+	<key>310080</key>
+	<string>Corr Wireless Communications</string>
+	<key>310100</key>
+	<string>Plateau Wireless (New Mexico RSA4 East)</string>
+	<key>310110</key>
+	<string>PTI Pacifica</string>
+	<key>310120</key>
+	<string>Sprint Nextel (CDMA network - formerly Sprint)</string>
+	<key>310140</key>
+	<string>Guam Tele Authority (GTA)</string>
+	<key>310150</key>
+	<string>AT&amp;T Mobility (Formerly Cingular BellSouth)</string>
+	<key>310160</key>
+	<string>T-Mobile (East Region)</string>
+	<key>310170</key>
+	<string>AT&amp;T Mobility (Formerly Cingular Pacific)</string>
+	<key>310200</key>
+	<string>T-Mobile (Seattle-Washington)</string>
+	<key>310210</key>
+	<string>T-Mobile (Kansas City)</string>
+	<key>310220</key>
+	<string>T-Mobile (OklahomaCity)</string>
+	<key>310230</key>
+	<string>T-Mobile (Salt Lake City)</string>
+	<key>310240</key>
+	<string>T-Mobile (Phoenix-Arizona)</string>
+	<key>310250</key>
+	<string>T-Mobile (Honolulu-H)</string>
+	<key>310260</key>
+	<string>T-Mobile (Denver-Colorado)</string>
+	<key>310270</key>
+	<string>T-Mobile (Formerly Powertel)</string>
+	<key>310310</key>
+	<string>T-Mobile (Central Region - Forme Aerial)</string>
+	<key>310320</key>
+	<string>Cellular One</string>
+	<key>310340</key>
+	<string>Westlink Communications</string>
+	<key>310380</key>
+	<string>AT&amp;T Mobility (Formerly AT&amp;T Wireless "Blue")</string>
+	<key>310400</key>
+	<string>Wave Runner LLC / ICAN (Guam)</string>
+	<key>310410</key>
+	<string>AT&amp;T Mobility (Formerly Cingular Genesis)</string>
+	<key>310420</key>
+	<string>Cincinnati Bell Wireless</string>
+	<key>310450</key>
+	<string>Viaero Wireless</string>
+	<key>310460</key>
+	<string>SIMMETRY / TMP</string>
+	<key>310470</key>
+	<string>Guam Cell &amp; Paging</string>
+	<key>310490</key>
+	<string>T-Mobile (Formerly SunCom)</string>
+	<key>310560</key>
+	<string>AT&amp;T Mobility (Formerly Cellular One / Dobson)</string>
+	<key>310570</key>
+	<string>MTPCS LLC (Dobson / Cellular One)</string>
+	<key>310580</key>
+	<string>Inland Cellular</string>
+	<key>310590</key>
+	<string>Verizon Wireless (Formerly Alltel)</string>
+	<key>310600</key>
+	<string>New Cell Inc. dba Cellcom</string>
+	<key>310630</key>
+	<string>Amerilink PCS CHOICE / Texas-10LLC</string>
+	<key>310640</key>
+	<string>Airadigm Communications (Einstein Wireless)</string>
+	<key>310650</key>
+	<string>Jasper Wireless Inc</string>
+	<key>310660</key>
+	<string>Metro PCS</string>
+	<key>310670</key>
+	<string>North Star</string>
+	<key>310690</key>
+	<string>Keystone Wireless / Conestoga</string>
+	<key>310730</key>
+	<string>SeaMobile</string>
+	<key>310750</key>
+	<string>East Kentucky Network LLC dba Appalachian Wireless</string>
+	<key>310760</key>
+	<string>Panhandle Telecommunications Systems</string>
+	<key>310770</key>
+	<string>Iowa Wireless Services</string>
+	<key>310830</key>
+	<string>Caprock Cellular</string>
+	<key>310850</key>
+	<string>Aeris Communications</string>
+	<key>310890</key>
+	<string>Unicel (Rural Cellular Corp)</string>
+	<key>310900</key>
+	<string>Taylor Telecommunications</string>
+	<key>310910</key>
+	<string>First Cellular Illinois</string>
+	<key>310940</key>
+	<string>Iris Wireless LLC</string>
+	<key>310950</key>
+	<string>XIT Wireless (Texas RSA1)</string>
+	<key>310970</key>
+	<string>Globalstar (Satellite Service)</string>
+	<key>310999</key>
+	<string>Metro PCS</string>
+	<key>311000</key>
+	<string>Mid-Tex Cellular</string>
+	<key>311010</key>
+	<string>Chariton Valley Communications</string>
+	<key>311020</key>
+	<string>Missouri RSA5 Partnership</string>
+	<key>311030</key>
+	<string>Indigo Wireless</string>
+	<key>311040</key>
+	<string>Commnet Wireless</string>
+	<key>311050</key>
+	<string>Wikes Cellular</string>
+	<key>311060</key>
+	<string>Farmers Cellular</string>
+	<key>311070</key>
+	<string>Easterbrooke Cellular Corp</string>
+	<key>311090</key>
+	<string>Long Lines Wireless LLC</string>
+	<key>311100</key>
+	<string>High Plains Wireless</string>
+	<key>311120</key>
+	<string>Choice Phone</string>
+	<key>311130</key>
+	<string>Cell One (Amarillo)</string>
+	<key>311140</key>
+	<string>Sprocket (MBO Wireless)</string>
+	<key>311160</key>
+	<string>Endless Mountains Wireless</string>
+	<key>311170</key>
+	<string>PetroCom Maritime (Broadpoint)</string>
+	<key>311190</key>
+	<string>Cellular Properties</string>
+	<key>311210</key>
+	<string>Farmers Cellular</string>
+	<key>311230</key>
+	<string>Cellular South</string>
+	<key>311300</key>
+	<string>Unicel (Rural Cellular Corp)</string>
+	<key>311340</key>
+	<string>Illinois Valley Cellular</string>
+	<key>311370</key>
+	<string>GCI Communications</string>
+	<key>311440</key>
+	<string>Bluegrass Cellular</string>
+	<key>311580</key>
+	<string>US Cellular</string>
+	<key>311620</key>
+	<string>Coleman County Telecom</string>
+	<key>311770</key>
+	<string>Iowa Wireless Services</string>
+	<key>316010</key>
+	<string>Sprint Nextel (IDEN network - formerly Nextel)</string>
+	<key>316011</key>
+	<string>Southern Communication Services (IDEN)</string>
+	<key>33030</key>
+	<string>Centennial Operations Corp.</string>
+	<key>330490</key>
+	<string>Suncom DBA</string>
+	<key>33402</key>
+	<string>Telcel (Radiomovil)</string>
+	<key>33403</key>
+	<string>Movistar Pegaso</string>
+	<key>33820</key>
+	<string>Cable &amp; Wireless Jamaice</string>
+	<key>33850</key>
+	<string>Mossel Digicel (TCI)</string>
+	<key>34001</key>
+	<string>Orange Caraibe Mobiles</string>
+	<key>34002</key>
+	<string>Outremer Telecom</string>
+	<key>34020</key>
+	<string>Digicel</string>
+	<key>342600</key>
 	<string>Cable &amp; Wireless</string>
-	<key>714/02</key>
-	<string>movistar</string>
-	<key>714/03</key>
-	<string>Claro</string>
-	<key>714/04</key>
+	<key>34430</key>
+	<string>APUA</string>
+	<key>346140</key>
+	<string>Cable &amp; Wireless</string>
+	<key>34650</key>
+	<string>Digicel Cayman</string>
+	<key>348170</key>
+	<string>Cable and Wireless</string>
+	<key>35001</key>
+	<string>Telecom Bermuda</string>
+	<key>35002</key>
+	<string>Mobility</string>
+	<key>352110</key>
+	<string>Cable &amp; Wireless</string>
+	<key>35230</key>
 	<string>Digicel</string>
-	<key>716/06</key>
-	<string>Movistar</string>
-	<key>716/07</key>
-	<string>NEXTEL</string>
-	<key>716/10</key>
-	<string>Claro (mobile phone network)|Claro]] (TIM)</string>
-	<key>716/15</key>
-	<string>Viettel Mobile</string>
-	<key>716/17</key>
-	<string>NEXTEL</string>
-	<key>722/010</key>
-	<string>Movistar</string>
-	<key>722/020</key>
-	<string>Nextel</string>
-	<key>722/040</key>
-	<string>Globalstar</string>
-	<key>722/070</key>
-	<string>Movistar</string>
-	<key>722/310</key>
-	<string>Claro (mobile phone network)|Claro</string>
-	<key>722/320</key>
-	<string>Claro (mobile phone network)|Claro</string>
-	<key>722/330</key>
-	<string>Claro (mobile phone network)|Claro</string>
-	<key>722/340</key>
-	<string>Personal</string>
-	<key>722/350</key>
-	<string>PORT-HABLE</string>
-	<key>724/00</key>
-	<string>Nextel</string>
-	<key>724/02</key>
-	<string>TIM</string>
-	<key>724/03</key>
-	<string>TIM</string>
-	<key>724/04</key>
-	<string>TIM</string>
-	<key>724/05</key>
-	<string>Claro BR</string>
-	<key>724/055</key>
-	<string>Sercomtel</string>
-	<key>724/06</key>
-	<string>Vivo</string>
-	<key>724/10</key>
-	<string>Vivo</string>
-	<key>724/11</key>
-	<string>Vivo</string>
-	<key>724/15</key>
-	<string>CTBC Celular</string>
-	<key>724/16</key>
-	<string>Brasil Telecom GSM</string>
-	<key>724/23</key>
-	<string>Vivo</string>
-	<key>724/31</key>
-	<string>Oi (telecommunications)|Oi</string>
-	<key>724/32</key>
-	<string>CTBC Celular</string>
-	<key>724/33</key>
-	<string>CTBC Celular</string>
-	<key>724/34</key>
-	<string>CTBC Celular</string>
-	<key>724/39</key>
-	<string>Nextel</string>
-	<key>730/01</key>
-	<string>entel</string>
-	<key>730/02</key>
-	<string>movistar</string>
-	<key>730/03</key>
-	<string>Claro</string>
-	<key>730/04</key>
-	<string>Nextel</string>
-	<key>730/07</key>
-	<string>Virgin Mobile</string>
-	<key>730/08</key>
-	<string>VTR Móvil</string>
-	<key>730/09</key>
-	<string>Nextel</string>
-	<key>730/10</key>
-	<string>entel</string>
-	<key>730/99</key>
-	<string>Will</string>
-	<key>732/002</key>
-	<string>Edatel</string>
-	<key>732/101</key>
-	<string>Claro</string>
-	<key>732/102</key>
-	<string>movistar</string>
-	<key>732/103</key>
-	<string>Tigo</string>
-	<key>732/111</key>
-	<string>Tigo</string>
-	<key>732/123</key>
-	<string>movistar</string>
-	<key>734/01</key>
-	<string>Corporación Digitel, C.A.|Digitel</string>
-	<key>734/02</key>
-	<string>Corporación Digitel, C.A.|Digitel GSM</string>
-	<key>734/03</key>
-	<string>Corporación Digitel, C.A.|Digitel</string>
-	<key>734/04</key>
-	<string>movistar</string>
-	<key>734/06</key>
-	<string>Movilnet</string>
-	<key>736/01</key>
-	<string>Nuevatel</string>
-	<key>736/02</key>
-	<string>Entel</string>
-	<key>736/03</key>
-	<string>Tigo</string>
-	<key>738/01</key>
+	<key>356110</key>
+	<string>Cable &amp; Wireless</string>
+	<key>358110</key>
+	<string>Cable &amp; Wireless</string>
+	<key>36251</key>
+	<string>Telcell</string>
+	<key>36269</key>
 	<string>Digicel</string>
-	<key>738/02</key>
-	<string>GT&amp;T Cellink Plus</string>
-	<key>740/00</key>
-	<string>Movistar</string>
-	<key>740/01</key>
-	<string>Claro</string>
-	<key>740/02</key>
-	<string>Alegro PCS|CNT Mobile</string>
-	<key>744/01</key>
-	<string>VOX</string>
-	<key>744/02</key>
-	<string>Claro/Hutchison</string>
-	<key>744/04</key>
-	<string>Tigo</string>
-	<key>744/05</key>
-	<string>Personal</string>
-	<key>744/06</key>
-	<string>Copaco</string>
-	<key>746/02</key>
-	<string>Telesur (Suriname)|Telesur</string>
-	<key>746/03</key>
+	<key>36291</key>
+	<string>Setel NV (UTS Wireless Curacao)</string>
+	<key>36301</key>
+	<string>SETAR (Servicio di Telecomunicacion di Aruba)</string>
+	<key>36320</key>
+	<string>New Millenium Telecom Services N.V.</string>
+	<key>364390</key>
+	<string>Bahamas Telecommunications Company</string>
+	<key>365840</key>
+	<string>Cable &amp; Wireless</string>
+	<key>365850</key>
+	<string>Wireless Ventures Ltd (Digicel Anguilla)</string>
+	<key>366110</key>
+	<string>Cable &amp; Wireless</string>
+	<key>36801</key>
+	<string>ETECSA (C-Com)</string>
+	<key>37001</key>
+	<string>Orange (FTD)</string>
+	<key>37250</key>
+	<string>Unigestion Holding S.A. (Digicel)</string>
+	<key>37401</key>
+	<string>TSTT</string>
+	<key>37412</key>
+	<string>TSTT</string>
+	<key>37413</key>
 	<string>Digicel</string>
-	<key>746/04</key>
-	<string>http://www.uniqa.sr Uniqa</string>
-	<key>748/01</key>
-	<string>Antel</string>
-	<key>748/07</key>
-	<string>Movistar</string>
-	<key>748/10</key>
+	<key>374130</key>
+	<string>Digicel</string>
+	<key>37420</key>
+	<string>TSTT</string>
+	<key>376350</key>
+	<string>Cable &amp; Wireless</string>
+	<key>40001</key>
+	<string>Azercell</string>
+	<key>40002</key>
+	<string>Bakcell</string>
+	<key>40004</key>
+	<string>Azerfon</string>
+	<key>40101</key>
+	<string>Beeline (Kar-Tel Ltd)</string>
+	<key>40102</key>
+	<string>K-Cell</string>
+	<key>40177</key>
+	<string>Mobile Telecom Service LLP</string>
+	<key>40467</key>
+	<string>Reliance Telecom</string>
+	<key>41001</key>
+	<string>Mobilink (Pakistan Mobile)</string>
+	<key>41003</key>
+	<string>Ufone (Pak Telecom Mobile)</string>
+	<key>41004</key>
+	<string>ZONG (CMPak)</string>
+	<key>41006</key>
+	<string>Telenor</string>
+	<key>41007</key>
+	<string>WARID Telecom</string>
+	<key>41201</key>
+	<string>Telephone Systems International (AWCC)</string>
+	<key>41220</key>
+	<string>Roshan</string>
+	<key>41240</key>
+	<string>Areba</string>
+	<key>41250</key>
+	<string>Etislat</string>
+	<key>41301</key>
+	<string>Mobitel</string>
+	<key>41302</key>
+	<string>Dialog (MTN)</string>
+	<key>41303</key>
+	<string>Celltel(Tigo)</string>
+	<key>41305</key>
+	<string>Bharti Airtel Lanka (Pvt)</string>
+	<key>41308</key>
+	<string>Hutchison</string>
+	<key>41501</key>
+	<string>FTML (Alfa)</string>
+	<key>41503</key>
+	<string>MTC Touch (LibanCell)</string>
+	<key>41601</key>
+	<string>Fastlink(JMTS Zain)</string>
+	<key>41602</key>
+	<string>Xpress</string>
+	<key>41603</key>
+	<string>UMC (Umniah)</string>
+	<key>41677</key>
+	<string>Mobil Com(Orange)</string>
+	<key>41701</key>
+	<string>Syratel</string>
+	<key>41805</key>
+	<string>AsiaCell</string>
+	<key>41820</key>
+	<string>Atheer Telecom</string>
+	<key>41830</key>
+	<string>Orascom Telecom Iraq Corporation (IRAQNA)</string>
+	<key>41840</key>
+	<string>KorekTel</string>
+	<key>41862</key>
+	<string>Itisaluna</string>
+	<key>41902</key>
+	<string>Mobile Telecommunications Co. (MTCNet)</string>
+	<key>41903</key>
+	<string>Wataniya</string>
+	<key>41904</key>
+	<string>Viva</string>
+	<key>42001</key>
+	<string>Saudi Telecom</string>
+	<key>42003</key>
+	<string>Mobily (Etihad Etisalat Company)</string>
+	<key>42004</key>
+	<string>MTC Saudi Arabia (Zain SA)</string>
+	<key>42101</key>
+	<string>Yemen Mobile (Sabafon)</string>
+	<key>42102</key>
+	<string>Spacetel (MTN)</string>
+	<key>42202</key>
+	<string>Oman Mobile (OmanTel)</string>
+	<key>42203</key>
+	<string>Nawras</string>
+	<key>42402</key>
+	<string>Etisalat</string>
+	<key>42403</key>
+	<string>Du</string>
+	<key>42501</key>
+	<string>Partner Orange</string>
+	<key>42502</key>
+	<string>Cellcom</string>
+	<key>42503</key>
+	<string>Pelephone Communications</string>
+	<key>42505</key>
+	<string>Palestine Telecomm Co Ltd (Jawaal)</string>
+	<key>42577</key>
+	<string>Mirs Communications</string>
+	<key>42601</key>
+	<string>Batelco</string>
+	<key>42602</key>
+	<string>MTC Vodafone (Bahrain) B.S.C.</string>
+	<key>42701</key>
+	<string>Q-Tel</string>
+	<key>42702</key>
+	<string>Vodafone Qatar Q.S.C.</string>
+	<key>42899</key>
+	<string>MobiCom Corporation</string>
+	<key>42901</key>
+	<string>Nepal Mobile</string>
+	<key>43211</key>
+	<string>MCI/TCI</string>
+	<key>43214</key>
+	<string>KFZO (TKC)</string>
+	<key>43232</key>
+	<string>Taliya</string>
+	<key>43235</key>
+	<string>Irancell</string>
+	<key>43402</key>
+	<string>Uzmacom</string>
+	<key>43405</key>
+	<string>Coscom</string>
+	<key>43407</key>
+	<string>Uzdunrobita</string>
+	<key>43601</key>
+	<string>JC Somoncom</string>
+	<key>43603</key>
+	<string>TT Mobile (MLT)</string>
+	<key>43604</key>
+	<string>Babilon Mobile</string>
+	<key>43701</key>
+	<string>Sky Mobile (Bitel)</string>
+	<key>43705</key>
+	<string>BiMoCom (Megacom)</string>
+	<key>43801</key>
+	<string>BCTI</string>
+	<key>44001</key>
+	<string>NTT DoCoMo</string>
+	<key>44009</key>
+	<string>NTT DoCoMo</string>
+	<key>44010</key>
+	<string>NTT DoCoMo</string>
+	<key>44020</key>
+	<string>J-Phone (Vodafone)</string>
+	<key>45201</key>
+	<string>Viet Nam Mobile Service (Mobifone)</string>
+	<key>45202</key>
+	<string>Viet Nam Telecoms Services (Vinaphone)</string>
+	<key>45204</key>
+	<string>Vietel Corporation (Viettel Mobile)</string>
+	<key>45400</key>
+	<string>Hong Kong CSL Ltd (Pacific Link)</string>
+	<key>45401</key>
+	<string>Hutchison Telephone Co. Ltd (Orange)</string>
+	<key>45402</key>
+	<string>Hong Kong CSL Ltd (Pacific Link)</string>
+	<key>45403</key>
+	<string>Hutchison 3G</string>
+	<key>45404</key>
+	<string>Hutchison Telephone Co. Ltd (Orange)</string>
+	<key>45406</key>
+	<string>SmarTone Mobile Communications</string>
+	<key>45410</key>
+	<string>New World Pcs</string>
+	<key>45412</key>
+	<string>Peoples TC (PCCWHKTC)</string>
+	<key>45414</key>
+	<string>Hutchison Telephone Co. Ltd (Orange)</string>
+	<key>45415</key>
+	<string>SmarTone Mobile Communications</string>
+	<key>45416</key>
+	<string>Mandarin Communications Ltd (Sunday)</string>
+	<key>45417</key>
+	<string>SmarTone Mobile Communications</string>
+	<key>45418</key>
+	<string>Hong Kong CSL Ltd (Pacific Link)</string>
+	<key>45500</key>
+	<string>SmarTone Mobile Communications</string>
+	<key>45501</key>
+	<string>C.T.M. (TELEMOVEL+ GSM900-Macau)</string>
+	<key>45503</key>
+	<string>Hutchison Telephone Macau</string>
+	<key>45601</key>
+	<string>CamGSM (MobiTel)</string>
+	<key>45602</key>
+	<string>Casacom (Samart) GSM 900</string>
+	<key>45608</key>
+	<string>Viatel Metfone</string>
+	<key>45609</key>
+	<string>Sotelco Ltd. (Beeline-KH)</string>
+	<key>45618</key>
+	<string>Camshin (Shinawatra) DCS 1800</string>
+	<key>456456</key>
+	<string>Smart mobile (Latelz)</string>
+	<key>45702</key>
+	<string>ETL</string>
+	<key>45703</key>
+	<string>Asia Telecommunication (LAT)</string>
+	<key>45708</key>
+	<string>Milicom (Tango)</string>
+	<key>46000</key>
+	<string>China Mobile</string>
+	<key>46001</key>
+	<string>China Unicom</string>
+	<key>46002</key>
+	<string>China Mobile</string>
+	<key>46601</key>
+	<string>Far EasTone Telecommunications</string>
+	<key>46611</key>
+	<string>Chung Hwa Telecom LDM</string>
+	<key>46688</key>
+	<string>KG Telecom</string>
+	<key>46689</key>
+	<string>VIBO</string>
+	<key>46693</key>
+	<string>Mobitai</string>
+	<key>46697</key>
+	<string>Taiwan Cellular Corporation (TWNGSM)</string>
+	<key>46699</key>
+	<string>TransAsia Telecommunications</string>
+	<key>47001</key>
+	<string>GrameenPhone</string>
+	<key>47002</key>
+	<string>TM International (AKTEL)</string>
+	<key>47003</key>
+	<string>Sheba Telecom (Banglalink)</string>
+	<key>47007</key>
+	<string>Warid Telecom</string>
+	<key>47201</key>
+	<string>Dhiraagu</string>
+	<key>47202</key>
+	<string>Wataniya Telecom</string>
+	<key>50212</key>
+	<string>Maxis</string>
+	<key>50216</key>
+	<string>Digi</string>
+	<key>50218</key>
+	<string>U-Mobile</string>
+	<key>50219</key>
+	<string>Celcom</string>
+	<key>50501</key>
+	<string>Telstra</string>
+	<key>50502</key>
+	<string>Optus</string>
+	<key>50503</key>
+	<string>Vodafone</string>
+	<key>50506</key>
+	<string>Hutchison 3G</string>
+	<key>51001</key>
+	<string>Satelindo(PT Indosat)</string>
+	<key>51008</key>
+	<string>PT Natrindo Telepon Seluler (Axis)</string>
+	<key>51010</key>
+	<string>PT Telekomunikasi Selular (Telkomsel)</string>
+	<key>51011</key>
+	<string>PT. Excelcomindo (Excelcom)</string>
+	<key>51021</key>
+	<string>Indosat M3 (merged with Satelindo)</string>
+	<key>51089</key>
+	<string>Hutchison CP Telecommunications</string>
+	<key>51501</key>
+	<string>Islacom</string>
+	<key>51502</key>
+	<string>Globe Telecom</string>
+	<key>51503</key>
+	<string>Smart Communications</string>
+	<key>51505</key>
+	<string>Digitel (Sun Cellular Mobile)</string>
+	<key>51511</key>
+	<string>Digitel Fixed Line</string>
+	<key>51513</key>
+	<string>Digitel Fixed Line</string>
+	<key>51518</key>
+	<string>CURE</string>
+	<key>51527</key>
+	<string>Digitel Fixed Line</string>
+	<key>51530</key>
+	<string>Digitel Fixed Line</string>
+	<key>51543</key>
+	<string>Digitel Fixed Line</string>
+	<key>515752</key>
+	<string>Digitel Fixed Line</string>
+	<key>515753</key>
+	<string>Digitel Fixed Line</string>
+	<key>51584</key>
+	<string>Digitel Fixed Line</string>
+	<key>51586</key>
+	<string>Digitel Fixed Line</string>
+	<key>52001</key>
+	<string>Advanced Info Service PLC (AIS GSM)</string>
+	<key>52018</key>
+	<string>Total Access Comms Co. (DTAC)</string>
+	<key>52023</key>
+	<string>Digital Phone</string>
+	<key>52099</key>
+	<string>TA Orange (True Move Company)</string>
+	<key>52501</key>
+	<string>SingTel</string>
+	<key>52503</key>
+	<string>MobileOne</string>
+	<key>52505</key>
+	<string>StarHub</string>
+	<key>52802</key>
+	<string>B-Mobile</string>
+	<key>52811</key>
+	<string>DST</string>
+	<key>53000</key>
+	<string>Telecom New Zealand</string>
+	<key>53001</key>
+	<string>Vodafone New Zealand Ltd.</string>
+	<key>53002</key>
+	<string>Telecom New Zealand</string>
+	<key>53004</key>
+	<string>Telstra</string>
+	<key>53005</key>
+	<string>Telecom New Zealand</string>
+	<key>53024</key>
+	<string>NZ Communications (2degrees)</string>
+	<key>53703</key>
+	<string>Digicel (PNG) Limited</string>
+	<key>54101</key>
+	<string>Telecom Vanuatu Ltd (SMILE)</string>
+	<key>54105</key>
+	<string>Digicel</string>
+	<key>54201</key>
+	<string>Vodafone</string>
+	<key>54202</key>
+	<string>Digicel</string>
+	<key>54720</key>
+	<string>Vini (Tikiphone)</string>
+	<key>54801</key>
+	<string>Telecom Cook Islands</string>
+	<key>54901</key>
+	<string>Digicel</string>
+	<key>60201</key>
+	<string>MobilNil</string>
+	<key>60202</key>
+	<string>Misfrone (Vodafone Egypt)</string>
+	<key>60203</key>
+	<string>Etisalat</string>
+	<key>60301</key>
+	<string>ATM Mobilis</string>
+	<key>60302</key>
+	<string>Orascom Telecom Algerie Spa (Djezzy)</string>
+	<key>60303</key>
+	<string>Wataniya Telecom (Nedjma)</string>
+	<key>60400</key>
+	<string>Medi-Telecom</string>
+	<key>60401</key>
+	<string>Maroc Telecom (Itissalat Al-Maghrib)</string>
+	<key>60502</key>
+	<string>Tunisie Telecom</string>
+	<key>60503</key>
+	<string>Orascom Telecom Tunisie</string>
+	<key>60600</key>
+	<string>Libyana</string>
+	<key>60601</key>
+	<string>El Madar Telephone</string>
+	<key>60701</key>
+	<string>Gamcel</string>
+	<key>60702</key>
+	<string>Telecom Cellular (Africell)</string>
+	<key>60801</key>
+	<string>Sonatel (Alize)</string>
+	<key>60802</key>
+	<string>Sentel</string>
+	<key>60901</key>
+	<string>Mattel</string>
+	<key>60910</key>
+	<string>Mauritel Mobiles</string>
+	<key>61001</key>
+	<string>Malitel</string>
+	<key>61002</key>
+	<string>Orange (Ikatel)</string>
+	<key>61202</key>
+	<string>A-Cell</string>
+	<key>61203</key>
+	<string>Orange (SIM Ivoiris)</string>
+	<key>61204</key>
+	<string>Comium</string>
+	<key>61205</key>
+	<string>Loteny Telecom (MTN)</string>
+	<key>61301</key>
+	<string>Telemob SA (Onatel)</string>
+	<key>61303</key>
+	<string>Telecel</string>
+	<key>61401</key>
+	<string>Celtel</string>
+	<key>61501</key>
+	<string>Togo Cellulaire</string>
+	<key>61505</key>
+	<string>Telcel</string>
+	<key>61601</key>
+	<string>Libercom</string>
+	<key>61603</key>
+	<string>Spacetel-Benin (BeninCell)</string>
+	<key>61701</key>
+	<string>Cellplus</string>
+	<key>61710</key>
+	<string>Emtel</string>
+	<key>61801</key>
+	<string>Lonestar Communications Corp.</string>
+	<key>61804</key>
+	<string>Comium Liberia Inc</string>
+	<key>61807</key>
+	<string>Celcom</string>
+	<key>61901</key>
+	<string>Celtel</string>
+	<key>61902</key>
+	<string>Millicom</string>
+	<key>61904</key>
+	<string>Comium</string>
+	<key>61905</key>
+	<string>Africell</string>
+	<key>62001</key>
+	<string>ScanCom Ltd (MTN)</string>
+	<key>62002</key>
+	<string>Ghana Telecom Mobile</string>
+	<key>62006</key>
+	<string>Zain Communications Limited</string>
+	<key>62120</key>
+	<string>Celtel Nigeria (Vmobile)</string>
+	<key>62130</key>
+	<string>Nigeria Communications Ltd (MTN)</string>
+	<key>62150</key>
+	<string>Globacom</string>
+	<key>62201</key>
+	<string>Celtel</string>
+	<key>62203</key>
+	<string>TIGO - Millicom</string>
+	<key>62401</key>
+	<string>MTN Cameroon</string>
+	<key>62402</key>
+	<string>Orange Cameroun S.A.</string>
+	<key>62501</key>
+	<string>CV Movel</string>
+	<key>62502</key>
+	<string>T+ Telecom</string>
+	<key>62701</key>
+	<string>GETESA</string>
+	<key>62801</key>
+	<string>Libertis</string>
+	<key>62802</key>
+	<string>TELECEL</string>
+	<key>62803</key>
+	<string>Celtel</string>
+	<key>62901</key>
+	<string>Zain Congo - GSM 900</string>
+	<key>62910</key>
+	<string>Libertis Telecom - GSM 900</string>
+	<key>63002</key>
+	<string>Celtel</string>
+	<key>63089</key>
+	<string>SAIT Telecom</string>
+	<key>63102</key>
+	<string>Unitel</string>
+	<key>63301</key>
+	<string>Cable &amp; Wireless</string>
+	<key>63310</key>
+	<string>Telecom Seychelles (Airtel)</string>
+	<key>63401</key>
+	<string>Mobitel</string>
+	<key>63402</key>
+	<string>MTN Sudan (Bashair)</string>
+	<key>63405</key>
+	<string>Vivacell</string>
+	<key>63510</key>
+	<string>MTN RwandaCell</string>
+	<key>63512</key>
+	<string>RwandaTel</string>
+	<key>63601</key>
+	<string>Ethiopian Telecommunications</string>
+	<key>63801</key>
+	<string>Djibouti Telecom</string>
+	<key>63902</key>
+	<string>Safaricom</string>
+	<key>63903</key>
+	<string>Zain (Celtel Kenya)</string>
+	<key>63905</key>
+	<string>Econet Wireless Kenya Limited</string>
+	<key>63907</key>
+	<string>Orange</string>
+	<key>64002</key>
+	<string>MIC Tanzania Ltd (Mobitel)</string>
+	<key>64003</key>
+	<string>Zanzibar Telecom (ZANTEL)</string>
+	<key>64004</key>
+	<string>Vodacom</string>
+	<key>64005</key>
+	<string>Celtel Tanzania</string>
+	<key>64101</key>
+	<string>Celtel Uganda Limited (Zain Uganda)</string>
+	<key>64110</key>
+	<string>MTN Uganda</string>
+	<key>64111</key>
+	<string>Uganda Telecom Ltd (UTL Telecel)</string>
+	<key>64203</key>
+	<string>Telecel</string>
+	<key>64301</key>
+	<string>mCel (TDM)</string>
+	<key>64304</key>
+	<string>Vodacom</string>
+	<key>64501</key>
+	<string>Celtel Zambia Ltd (Zain)</string>
+	<key>64502</key>
+	<string>Telecel Zambia</string>
+	<key>64503</key>
+	<string>Zamtel (Cell Z)</string>
+	<key>64602</key>
+	<string>Orange</string>
+	<key>64604</key>
+	<string>Telma Mobile</string>
+	<key>64700</key>
+	<string>Orange (France Telecom)</string>
+	<key>64702</key>
+	<string>Outremer Telecom</string>
+	<key>64710</key>
+	<string>SFR</string>
+	<key>64801</key>
+	<string>P + T Corporation (NET*ONE)</string>
+	<key>64803</key>
+	<string>Telecel Zimbabwe</string>
+	<key>64804</key>
+	<string>Econet</string>
+	<key>64901</key>
+	<string>MTC</string>
+	<key>64903</key>
+	<string>Powercom (Pty) Ltd (Cell One)</string>
+	<key>65001</key>
+	<string>Telekom Network Ltd (TNM)</string>
+	<key>65010</key>
+	<string>CelTel</string>
+	<key>65101</key>
+	<string>Vodacom Lesotho</string>
+	<key>65102</key>
+	<string>Econet</string>
+	<key>65201</key>
+	<string>Mascom Wireless (Pty) Ltd.</string>
+	<key>65202</key>
+	<string>Vista Cellular (Orange)</string>
+	<key>65310</key>
+	<string>Swazi MTN</string>
+	<key>65401</key>
+	<string>Comores Telecom</string>
+	<key>65501</key>
+	<string>Vodacom</string>
+	<key>65507</key>
+	<string>Cell-C</string>
+	<key>65510</key>
+	<string>MTN</string>
+	<key>70267</key>
+	<string>Belize Telecommunications Ltd.</string>
+	<key>70402</key>
+	<string>Comcel</string>
+	<key>70601</key>
+	<string>CTE Telecom Personal SA de CV</string>
+	<key>70603</key>
+	<string>Telemovil EL Salvador S.A</string>
+	<key>70801</key>
 	<string>Claro</string>
+	<key>70802</key>
+	<string>Telefonica Celular S.A (CELTEL)</string>
+	<key>71021</key>
+	<string>Enitel</string>
+	<key>71073</key>
+	<string>Enitel</string>
+	<key>71201</key>
+	<string>I.C.E. - GSM</string>
+	<key>71202</key>
+	<string>I.C.E. - GSM</string>
+	<key>71209</key>
+	<string>I.C.E. - GSM</string>
+	<key>71401</key>
+	<string>Cable &amp; Wireless</string>
+	<key>71404</key>
+	<string>Digicel (Panama) S.A.</string>
+	<key>71420</key>
+	<string>Telefonica</string>
+	<key>71606</key>
+	<string>Movistar (Telefonica)</string>
+	<key>71610</key>
+	<string>America Movil Peru S.A.C (CLARO PERU)</string>
+	<key>722310</key>
+	<string>AMX Argentina (Claro)</string>
+	<key>722320</key>
+	<string>AMX Argentina (Claro)</string>
+	<key>722330</key>
+	<string>AMX Argentina (Claro)</string>
+	<key>722340</key>
+	<string>Personal GSM 1900</string>
+	<key>72270</key>
+	<string>Telefonica Movistar</string>
+	<key>72402</key>
+	<string>TIM</string>
+	<key>72403</key>
+	<string>TIM</string>
+	<key>72404</key>
+	<string>TIM</string>
+	<key>72405</key>
+	<string>Claro</string>
+	<key>72406</key>
+	<string>VIVO</string>
+	<key>72408</key>
+	<string>TIM</string>
+	<key>72410</key>
+	<string>VIVO</string>
+	<key>72411</key>
+	<string>VIVO</string>
+	<key>72416</key>
+	<string>Brazil Telecom</string>
+	<key>72423</key>
+	<string>VIVO</string>
+	<key>72424</key>
+	<string>Amazonia Celular</string>
+	<key>72431</key>
+	<string>TNL PCS (Oi)</string>
+	<key>73001</key>
+	<string>ENTEL PCS Telecomunicaciones</string>
+	<key>73002</key>
+	<string>Telefonica Movil de Chile</string>
+	<key>73003</key>
+	<string>Claro Chile</string>
+	<key>73010</key>
+	<string>Entel Telefonia Movil</string>
+	<key>732103</key>
+	<string>Movil SA (Tigo)</string>
+	<key>732111</key>
+	<string>Movil SA (Tigo)</string>
+	<key>732123</key>
+	<string>Telefonica Moviles Colombia S.A. (Movistar)</string>
+	<key>73402</key>
+	<string>Corporacion Digitel C.A. (DIGITEL)</string>
+	<key>73404</key>
+	<string>Telcel C.A. (Movistar)</string>
+	<key>73406</key>
+	<string>Telecomunicaciones Movilnet C.A.</string>
+	<key>73601</key>
+	<string>Nuevatel PCS De Bolivia S.A.</string>
+	<key>73602</key>
+	<string>ENTEL Movil</string>
+	<key>73630</key>
+	<string>Telefonica Celular De Bolivia S.A.</string>
+	<key>73801</key>
+	<string>Digicel Guyana</string>
+	<key>73802</key>
+	<string>Telephone&amp;Telegraph Co.</string>
+	<key>74000</key>
+	<string>Movistar (Otecel)</string>
+	<key>74001</key>
+	<string>Conecel (Porta)</string>
+	<key>74201</key>
+	<string>Orange</string>
+	<key>74401</key>
+	<string>Hola Paraguay S.A. (VOX)</string>
+	<key>74402</key>
+	<string>Claro (Hutchison Telecom)</string>
+	<key>74404</key>
+	<string>Telecel S.A.</string>
+	<key>74405</key>
+	<string>Nucleo S.A (Personal)</string>
+	<key>74602</key>
+	<string>Telesur</string>
+	<key>74603</key>
+	<string>Digicel</string>
+	<key>74801</key>
+	<string>ANTEL</string>
+	<key>74807</key>
+	<string>Telefonica Moviles</string>
+	<key>74810</key>
+	<string>AM Wireless (Claro)</string>
 </dict>
 </plist>
